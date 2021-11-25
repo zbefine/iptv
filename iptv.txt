@@ -34,8 +34,10 @@ IPTV5+ 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
 黑龙江卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226142/index.m3u8
 SiTV动漫秀场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 SiTV极速汽车 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+SiTV极速汽车 7.5M1080,http://39.134.39.39/PLTV/88888888/224/3221226310/index.m3u8
 SiTV欢笑剧场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
 SiTV游戏风云 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
+SiTV游戏风云 7.5M1080,http://39.134.39.39/PLTV/88888888/224/3221226337/index.m3u8
 SiTV都市剧场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 上海外语 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226201/index.m3u8
 上海第一财经 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226172/index.m3u8
@@ -89,10 +91,12 @@ SiTV都市剧场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m
 咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226385/index.m3u8
 咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226387/index.m3u8
 咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226389/index.m3u8
+咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226391/index.m3u8
 咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226393/index.m3u8
 咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226395/index.m3u8
 咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226397/index.m3u8
 咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226401/index.m3u8
+咪咕视频 5M1080,http://39.134.39.39/PLTV/88888888/224/3221226188/index.m3u8
 咪咕视频 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226102/index.m3u8
 咪咕视频 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226190/index.m3u8
 咪咕视频 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226352/index.m3u8
@@ -101,10 +105,12 @@ SiTV都市剧场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m
 购物 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226194/index.m3u8
 购物 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226231/index.m3u8
 动漫 7.5M720,http://39.134.39.39/PLTV/88888888/224/3221226335/index.m3u8
+CCTV1 576,http://39.134.39.39/PLTV/88888888/224/3221226238/index.m3u8
 CCTV1 720,http://39.134.39.39/PLTV/88888888/224/3221225729/index.m3u8
 CCTV2 540,http://39.134.39.39/PLTV/88888888/224/3221225725/index.m3u8
 CCTV3 540,http://39.134.39.39/PLTV/88888888/224/3221225692/index.m3u8
 CCTV4 540,http://39.134.39.39/PLTV/88888888/224/3221225719/index.m3u8
+CCTV4 576,http://39.134.39.39/PLTV/88888888/224/3221226222/index.m3u8
 CCTV7 540,http://39.134.39.39/PLTV/88888888/224/3221225659/index.m3u8
 CCTV9 540,http://39.134.39.39/PLTV/88888888/224/3221226348/index.m3u8
 CCTV11 540,http://39.134.39.39/PLTV/88888888/224/3221225705/index.m3u8
@@ -129,6 +135,8 @@ IPTV野外 576,http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
 宁夏卫视 576,http://39.134.39.39/PLTV/88888888/224/3221226325/index.m3u8
 山西卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225870/index.m3u8
 广西卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225679/index.m3u8
+新疆卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225704/index.m3u8
+河北卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225632/index.m3u8
 河南卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225653/index.m3u8
 海南卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225711/index.m3u8
 甘肃卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225690/index.m3u8
@@ -143,12 +151,8 @@ IPTV野外 576,http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
 青海安多藏语,http://39.134.39.39/PLTV/88888888/224/3221226405/index.m3u8
 SiTV七彩戏剧 540,http://39.134.39.39/PLTV/88888888/224/3221225691/index.m3u8
 SiTV东方财经 540,http://39.134.39.39/PLTV/88888888/224/3221225667/index.m3u8
-SiTV法治天地 540,http://39.134.39.39/PLTV/88888888/224/3221225627/index.m3u8
 SiTV生活时尚 720,http://39.134.39.39/PLTV/88888888/224/3221225874/index.m3u8
 上海新闻综合 540,http://39.134.39.39/PLTV/88888888/224/3221225651/index.m3u8
-上海都市 720,http://39.134.39.39/PLTV/88888888/224/3221225673/index.m3u8
-上海哈哈炫动 540,http://39.134.39.39/PLTV/88888888/224/3221225668/index.m3u8
-北京卡酷少儿 540,http://39.134.39.39/PLTV/88888888/224/3221225643/index.m3u8
 广东嘉佳卡通 540,http://39.134.39.39/PLTV/88888888/224/3221225681/index.m3u8
 湖南金鹰卡通 540,http://39.134.39.39/PLTV/88888888/224/3221225634/index.m3u8
 足球 576,http://39.134.39.39/PLTV/88888888/224/3221226291/index.m3u8
@@ -274,6 +278,7 @@ NewTV黑莓动画,http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
 新疆卫视,http://cdnbn2.ynumc.com:8278/xjws/playlist.m3u8
 河北卫视,http://cdnbn2.ynumc.com:8278/hebws/playlist.m3u8
 陕西卫视,http://cdnbn2.ynumc.com:8278/sxiws/playlist.m3u8
+广东综艺 35M,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=77&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 广州南国都市 19M,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=123&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 CCTV1 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=29&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 CCTV2 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=10&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -309,10 +314,10 @@ CCTV14 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_
 重庆卫视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=16&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 北京冬奥纪实4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=158&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 湖南快乐垂钓4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=69&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+湖南快乐购 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=56&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 湖南茶频道 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=70&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 广东珠江 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广州新闻 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=11&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广州综合 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=81&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+CBN每日影院4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 香港卫视 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -321,7 +326,6 @@ TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 CGTN-国际,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN-Doc,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-中國國際教育,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 === 英语 ===,http://127.0.0.1
 CNN ,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8#https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8#https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 Australia Channel,https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
@@ -342,18 +346,11 @@ NHK华语视界 (720p),https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh
 日本-CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 法语-TV5 Monde Info,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 === 广东 ===,http://127.0.0.1
-汕头综合,http://dslive.grtn.cn/stzh/playlist.m3u8
 湛江综合,http://dslive.grtn.cn/zjzh/sd/live.m3u8
-茂名综合,http://dslive.grtn.cn/mmzh/sd/live.m3u8
-江门综合,http://dslive.grtn.cn/jmzh/sd/live.m3u8
 珠海生活,http://dslive.grtn.cn/zhzh/sd/live.m3u8
 揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8
-阳江综合,http://dslive.grtn.cn/yjzh/sd/live.m3u8
-韶关公共,http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8
-梅州综合,http://dslive.grtn.cn/mzzh/sd/live.m3u8
 河源综合,http://dslive.grtn.cn/hyzh/sd/live.m3u8
 汕尾综合,http://dslive.grtn.cn/swzh/sd/live.m3u8
-云浮综合,http://dslive.grtn.cn/yfzh/sd/live.m3u8
 === 福建 ===,http://127.0.0.1
 福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
@@ -399,7 +396,6 @@ SiTV都市剧场 1080,http://140.207.241.2:8080/live/program/live/dsjchd/4000000
 SiTV法治天地 540,http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
 SiTV七彩戏剧 540,http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
 SiTV东方财经 540,http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
-四川新闻,http://scgctvshow.sctv.com/sdlive/sctv4/1.m3u8
 四川影视文化,http://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
 四川公共乡村,http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 四川经济,http://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
