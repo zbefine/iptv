@@ -1220,4 +1220,8 @@ http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-id="LongYanGongGong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",龙岩公共 [540p]
 http://stream.lytv.net.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="LongYanZongHe.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",龙岩综合 (540p)
+<<<<<<< HEAD
 http://stream.lytv.net.cn/2/sd/live.m3u8
+=======
+http://stream.lytv.net.cn/2/sd/live.m3u8
+>>>>>>> 2c16d475330b34ddfe9d9e9a3d18e1fbad458929
