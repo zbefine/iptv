@@ -45,7 +45,7 @@
 
 
 
-v19.1.0
+> v19.1.0
 优化适配大屏幕
 优化加载性能
 增大弹幕字体大小设置范围
@@ -57,7 +57,12 @@ v19.1.0
 
 
 
+![网页捕获_30-11-2021_223448_mp weixin qq com](https://user-images.githubusercontent.com/26646520/144067332-53ccf2c2-21d7-4cf2-8603-f4b19c5ea9d9.jpeg)
 
 
 
+
+
+
+![网页捕获_30-11-2021_223417_mp weixin qq com](https://user-images.githubusercontent.com/26646520/144067354-46b64987-0f50-4c1f-9626-4c6ae8823477.jpeg)
 
