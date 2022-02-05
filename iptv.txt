@@ -1,131 +1,7 @@
-咪咕4K 31M2160HEVC,http://39.134.39.39/PLTV/88888888/224/3221226351/index.m3u8
-CCTV1 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
-CCTV2 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
-CCTV5 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-CCTV5+ 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
-CCTV6 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226148/index.m3u8
-CCTV6 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
-CCTV8 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226150/index.m3u8
-CCTV8 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
-CCTV10 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226164/index.m3u8
-CCTV14 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8
-CCTV17 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226407/index.m3u8
-IPTV5+ 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
-超级体育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226411/index.m3u8
-超级电影 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226409/index.m3u8
-超级电视剧 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226356/index.m3u8
-超级综艺 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226354/index.m3u8
-东南卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226182/index.m3u8
-东方卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226155/index.m3u8
-北京卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226161/index.m3u8
-天津卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226191/index.m3u8
-天津卫视 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226303/index.m3u8
-安徽卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226205/index.m3u8
-山东卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226162/index.m3u8
-广东卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226180/index.m3u8
-江苏卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226157/index.m3u8
-江西卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226207/index.m3u8
-浙江卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226144/index.m3u8
-深圳卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8
-湖北卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226159/index.m3u8
-湖南卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
-甘肃卫视 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
-辽宁卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226209/index.m3u8
-黑龙江卫视 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226142/index.m3u8
-SiTV动漫秀场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
-SiTV极速汽车 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
-SiTV欢笑剧场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
-SiTV游戏风云 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
-SiTV都市剧场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
-上海第一财经 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226172/index.m3u8
-上海纪实人文 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226174/index.m3u8
-甘肃公共应急 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8
-甘肃少儿 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
-甘肃文化影视 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
-兰州新闻综合 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
-兰州生活经济 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
-直播 5M1080,http://39.134.39.39/PLTV/88888888/224/3221226326/index.m3u8
-直播桂林逍遥楼 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226357/index.m3u8
-百事通体育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226130/index.m3u8
-百事通体育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226132/index.m3u8
-百事通体育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226134/index.m3u8
-百事通体育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226149/index.m3u8
-百事通体育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226153/index.m3u8
-百视通体育 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226145/index.m3u8
-咪咕视频 1080,http://39.134.39.39/PLTV/88888888/224/3221226227/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226104/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226106/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226110/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226112/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226125/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226196/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226223/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226225/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226229/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226328/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226330/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226332/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226336/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226340/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226355/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226359/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226363/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226365/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226369/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226373/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226377/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226383/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226385/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226387/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226389/index.m3u8
-咪咕视频 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226391/index.m3u8
-咪咕视频 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226102/index.m3u8
-咪咕视频 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226352/index.m3u8
-购物 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226192/index.m3u8
-购物 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226194/index.m3u8
-购物 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226231/index.m3u8
-动漫 7.5M720,http://39.134.39.39/PLTV/88888888/224/3221226335/index.m3u8
-CCTV1 576,http://39.134.39.39/PLTV/88888888/224/3221226238/index.m3u8
-CCTV1 720,http://39.134.39.39/PLTV/88888888/224/3221225729/index.m3u8
-CCTV3 540,http://39.134.39.39/PLTV/88888888/224/3221225692/index.m3u8
-CCTV4 540,http://39.134.39.39/PLTV/88888888/224/3221225719/index.m3u8
-CCTV7 540,http://39.134.39.39/PLTV/88888888/224/3221225659/index.m3u8
-CCTV9 540,http://39.134.39.39/PLTV/88888888/224/3221226348/index.m3u8
-IPTV8+ 576,http://39.134.39.39/PLTV/88888888/224/3221226271/index.m3u8
-IPTV野外 576,http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
-中国教育1 576,http://39.134.39.39/PLTV/88888888/224/3221225656/index.m3u8
-中国教育4 576,http://39.134.39.39/PLTV/88888888/224/3221226279/index.m3u8
-内蒙古卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225664/index.m3u8
-内蒙古卫视 576,http://39.134.39.39/PLTV/88888888/224/3221226323/index.m3u8
-厦门卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225689/index.m3u8
-宁夏卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225647/index.m3u8
-广西卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225679/index.m3u8
-新疆卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225704/index.m3u8
-河北卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225632/index.m3u8
-河南卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225653/index.m3u8
-甘肃卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225690/index.m3u8
-贵州卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225885/index.m3u8
-重庆卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225652/index.m3u8
-青海卫视 576,http://39.134.39.39/PLTV/88888888/224/3221226292/index.m3u8
-新疆兵团卫视 540,http://39.134.39.39/PLTV/88888888/224/3221225631/index.m3u8
-西藏藏语卫视 576,http://39.134.39.39/PLTV/88888888/224/3221226350/index.m3u8
-青海安多藏语,http://39.134.39.39/PLTV/88888888/224/3221226405/index.m3u8
-SiTV七彩戏剧 540,http://39.134.39.39/PLTV/88888888/224/3221225691/index.m3u8
-SiTV东方财经 540,http://39.134.39.39/PLTV/88888888/224/3221225667/index.m3u8
-SiTV法治天地 540,http://39.134.39.39/PLTV/88888888/224/3221225627/index.m3u8
-上海新闻综合 540,http://39.134.39.39/PLTV/88888888/224/3221225651/index.m3u8
-上海哈哈炫动 540,http://39.134.39.39/PLTV/88888888/224/3221225668/index.m3u8
-上海哈哈炫动 576,http://39.134.39.39/PLTV/88888888/224/3221226329/index.m3u8
-北京卡酷少儿 540,http://39.134.39.39/PLTV/88888888/224/3221225643/index.m3u8
-足球 576,http://39.134.39.39/PLTV/88888888/224/3221226291/index.m3u8
-购物 576,http://39.134.39.39/PLTV/88888888/224/3221225640/index.m3u8
-购物 576,http://39.134.39.39/PLTV/88888888/224/3221225662/index.m3u8
-购物 576,http://39.134.39.39/PLTV/88888888/224/3221225683/index.m3u8
-购物 576,http://39.134.39.39/PLTV/88888888/224/3221225702/index.m3u8
 CCTV-1 综合,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
-CCTV-2 财经,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
 CCTV-3 综艺,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
 CCTV-4 中文国际,http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
+CCTV-5 体育,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
 CCTV-5+ 体育赛事,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
 CCTV-6 电影,http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
 CCTV-7 国防军事,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
@@ -136,17 +12,20 @@ CCTV-11 戏曲,http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
 CCTV-12 社会与法,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
 CCTV-13 新闻,http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
 CCTV-14 少儿,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
+CCTV-15 音乐,http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
 CCTV-17 农业农村,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
 CETV-1,http://183.207.248.71:80/cntv/live1/n-jiaoyutv/n-jiaoyutv
 CETV-2,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv2/SD-4000k-576P-jiaoyutv2
 CETV-4,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv4/SD-4000k-576P-jiaoyutv4
 广东卫视,http://183.207.248.71:80/cntv/live1/n-guangdongstv/n-guangdongstv
 东南卫视,http://183.207.248.71:80/cntv/live1/n-dongnanstv/n-dongnanstv
+东方卫视,http://183.207.248.71:80/cntv/live1/n-dongfangstv/n-dongfangstv
 北京卫视,http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
 北京纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 南方卫视,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nanfangstv/SD-4000k-576P-nanfangstv
 厦门卫视,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-xiamenstv/SD-4000k-576P-xiamenstv
 天津卫视,http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
+安徽卫视,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv
 山东卫视,http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
 江苏卫视,http://183.207.248.71:80/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
 江西卫视,http://183.207.248.71:80/cntv/live1/jiangxistv/jiangxistv
@@ -173,6 +52,8 @@ CETV-4,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv4/SD-4000k-576P
 宁夏卫视,http://183.207.248.71:80/cntv/live1/n-ningxiastv/n-ningxiastv
 西藏卫视,http://183.207.248.71:80/cntv/live1/n-xizangstv/n-xizangstv
 贵州卫视,http://183.207.248.71:80/cntv/live1/n-guizhoustv/n-guizhoustv
+河南卫视,http://183.207.248.71:80/cntv/live1/henanstv/henanstv
+辽宁卫视,http://183.207.248.71:80/cntv/live1/liaoningstv/liaoningstv
 陕西卫视,http://183.207.248.71:80/cntv/live1/n-shanxi1stv/n-shanxi1stv
 青海卫视,http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv
 纪实人文,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
@@ -190,7 +71,6 @@ NewTV潮妈辣婆,http://183.207.248.71:80/cntv/live1/n-cmlapo/n-cmlapo
 NewTV炫舞未来,http://183.207.248.71:80/cntv/live1/HD-4000k-1080P-xwwl/HD-4000k-1080P-xwwl
 NewTV爱情喜剧,http://183.207.248.71:80/cntv/live1/n-aiqingxj/n-aiqingxj
 NewTV精品体育,http://183.207.248.71:80/cntv/live1/n-jtiyu/n-jtiyu
-NewTV精品大剧,http://183.207.248.71:80/cntv/live1/n-jdaju/n-jdaju
 NewTV精品纪录,http://183.207.248.71:80/cntv/live1/n-jingpinjl/n-jingpinjl
 NewTV金牌综艺,http://183.207.248.71:80/cntv/live1/n-saishijx/n-saishijx
 NewTV中国功夫,http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu
@@ -289,7 +169,6 @@ CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 广西卫视,http://117.148.179.164/PLTV/88888888/224/3221231600/index.m3u8
 西藏卫视,http://117.148.179.162/PLTV/88888888/224/3221231558/index.m3u8
 内蒙古卫视,http://117.148.179.151/PLTV/88888888/224/3221231478/index.m3u8
-宁夏卫视,http://117.148.179.160/PLTV/88888888/224/3221231441/index.m3u8
 甘肃卫视,http://117.148.179.158/PLTV/88888888/224/3221231393/index.m3u8
 重庆卫视,http://117.148.179.155/PLTV/88888888/224/3221231508/index.m3u8
 新疆卫视,http://117.148.179.183/PLTV/88888888/224/3221231451/index.m3u8
@@ -314,7 +193,6 @@ CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 东方财经浦东,http://117.148.179.176/PLTV/88888888/224/3221231646/index.m3u8
 哈哈炫动,http://117.148.179.136/PLTV/88888888/224/3221231480/index.m3u8
 法治天地,http://117.148.179.182/PLTV/88888888/224/3221231597/index.m3u8
-数码时代,http://117.148.179.160/PLTV/88888888/224/3221229419/index.m3u8
 杭州综合,http://117.148.179.132/PLTV/88888888/224/3221229307/index.m3u8
 杭州明珠,http://117.148.179.135/PLTV/88888888/224/3221229310/index.m3u8
 杭州生活,http://117.148.179.134/PLTV/88888888/224/3221229313/index.m3u8
@@ -339,34 +217,26 @@ MIGU周星驰影院,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3
 MIGU午夜失眠剧场,http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
 MIGU吴京作品集,http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
 MIGU云上电影院,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-MIGU每日科幻电影,http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
 MIGU葛优作品集,http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
 MIGU刘德华影院,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
 MIGU僵尸剧场,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
 MIGU刘亦菲影视展播,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
 MIGUTVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 MIGU金庸频道,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
-MIGU新片放映厅,http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
 MIGU盗墓方法论,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
 MIGU试胆大会,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
 MIGU高能烧脑时刻,http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
 MIGU杨幂作品集,http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
 MIGU4K剧场,http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
-MIGU爱情公寓,http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
 MIGU军旅剧场,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
 MIGUSNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 MIGU红色谍战剧场,http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
-MIGU少林剧场,http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
 MIGU神探狄仁杰,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
 MIGU黄金剧场,http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
 MIGU追剧少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-MIGU古龙作品集,http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
 MIGU经典贺岁片,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
 MIGU24小时体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 MIGU每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
-MIGU武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
-MIGU相声小品,http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
-MIHU健康中国,http://117.148.179.160/PLTV/88888888/224/3221231720/index.m3u8
 MIGU5G+,http://117.148.179.166/PLTV/88888888/224/3221231736/index.m3u8
 MIGU奥运足球频道,http://117.148.179.173/PLTV/88888888/224/3221232023/index.m3u8
 咪咕Y+,http://117.148.179.146/PLTV/88888888/224/3221230226/index.m3u8
@@ -379,79 +249,13 @@ MIGU奥运足球频道,http://117.148.179.173/PLTV/88888888/224/3221232023/index
 空中课堂-七年级,http://117.148.179.156/PLTV/88888888/224/3221231781/index.m3u8
 空中课堂-八年级,http://117.148.179.155/PLTV/88888888/224/3221231691/index.m3u8
 空中课堂-九年级,http://117.148.179.174/PLTV/88888888/224/3221231642/index.m3u8
-空中课堂-高一年级,http://117.148.179.160/PLTV/88888888/224/3221231705/index.m3u8
 空中课堂-高二年级,http://117.148.179.179/PLTV/88888888/224/3221231630/index.m3u8
 空中课堂-高三年级,http://117.148.179.166/PLTV/88888888/224/3221231690/index.m3u8
-广东综艺 35M,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=77&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广州南国都市 19M,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=123&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV1 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=29&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV2 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=10&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV3 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=80&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV4 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=26&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV5 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=32&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV5+ 6M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=36&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV6 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=87&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV7 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=28&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV8 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=21&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV10 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=4&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV12 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=34&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV14 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=35&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-东南卫视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=23&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-东方卫视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=22&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-北京卫视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=30&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-四川卫视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=3&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-天津卫视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=37&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-深圳卫视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=42&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-湖北卫视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=18&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-湖南卫视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=6&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-贵州卫视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-辽宁卫视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=38&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-重庆卫视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=16&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-北京冬奥纪实4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=158&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-湖南快乐垂钓4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=69&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-湖南快乐购 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=56&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-湖南茶频道 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=70&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广东珠江 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广州新闻 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=11&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广州综合 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=81&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CBN每日影院4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CHC动作电影4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=119&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-SiTV劲爆体育4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=74&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-SiTV新视觉 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=75&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-SiTV魅力足球4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=76&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV11 720,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=53&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV13 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=64&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CCTV15 720,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=54&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-CGTN 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=14&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-云南卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=110&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-内蒙古卫视 480,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=17&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-宁夏卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=120&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-山西卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=144&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广西卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=138&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-新疆卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=122&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-澳亚卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=192&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-甘肃卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=142&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-西藏卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=208&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-青海卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=206&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-黑龙江卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=27&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-星空卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-星空卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-凤凰中文 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-明珠台 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-翡翠台 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广东公共 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=85&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广东嘉佳卡通 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=130&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广东少儿 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=83&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-山东卫视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=39&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-广州影视 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=52&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-SiTV幸福彩 4M1080,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=73&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-吉林卫视 720,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=25&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 CCTV-1综合,http://ott.js.chinamobile.com/TVOD/3/224/3221228049/index.m3u8
 CCTV-1综合,http://ott.js.chinamobile.com/TVOD/3/224/3221228146/index.m3u8
 CCTV-1综合,http://ott.js.chinamobile.com/TVOD/3/224/3221228149/index.m3u8
 CCTV-2财经,http://ott.js.chinamobile.com/TVOD/3/224/3221228094/index.m3u8
 CCTV-2财经,http://ott.js.chinamobile.com/TVOD/3/224/3221228118/index.m3u8
-CCTV-3综艺,http://ott.js.chinamobile.com/TVOD/3/224/3221228126/index.m3u8
 CCTV-3综艺,http://ott.js.chinamobile.com/TVOD/3/224/3221228188/index.m3u8
 CCTV-4中文,http://ott.js.chinamobile.com/TVOD/3/224/3221228091/index.m3u8
 CCTV-4中文,http://ott.js.chinamobile.com/TVOD/3/224/3221228156/index.m3u8
@@ -464,13 +268,11 @@ CCTV-5体+,http://ott.js.chinamobile.com/TVOD/3/224/3221228176/index.m3u8
 CCTV-6电影,http://ott.js.chinamobile.com/TVOD/3/224/3221228123/index.m3u8
 CCTV-6电影,http://ott.js.chinamobile.com/TVOD/3/224/3221228185/index.m3u8
 CCTV-7国防,http://ott.js.chinamobile.com/TVOD/3/224/3221227314/index.m3u8
-CCTV-7国防,http://ott.js.chinamobile.com/TVOD/3/224/3221227642/index.m3u8
 CCTV-8电视,http://ott.js.chinamobile.com/TVOD/3/224/3221228079/index.m3u8
 CCTV-9记录,http://ott.js.chinamobile.com/TVOD/3/224/3221227614/index.m3u8
 CCTV-10科教,http://ott.js.chinamobile.com/TVOD/3/224/3221228078/index.m3u8
 CCTV-11戏曲,http://ott.js.chinamobile.com/TVOD/3/224/3221227384/index.m3u8
 CCTV-12社会,http://ott.js.chinamobile.com/TVOD/3/224/3221227655/index.m3u8
-CCTV-13新闻,http://ott.js.chinamobile.com/TVOD/3/224/3221228121/index.m3u8
 CCTV-13新闻,http://ott.js.chinamobile.com/TVOD/3/224/3221228224/index.m3u8
 CCTV-14少儿,http://ott.js.chinamobile.com/TVOD/3/224/3221227201/index.m3u8
 CCTV-15音乐,http://ott.js.chinamobile.com/TVOD/3/224/3221227538/index.m3u8
@@ -483,20 +285,13 @@ CCTV-17农业,http://ott.js.chinamobile.com/TVOD/3/224/3221227726/index.m3u8
 凤凰卫视资讯台,http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8
 CCTV高尔夫网球,http://ott.js.chinamobile.com/TVOD/3/224/3221228138/index.m3u8
 河北卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228106/index.m3u8
-东方卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228150/index.m3u8
 人文纪实,http://ott.js.chinamobile.com/TVOD/3/224/3221227674/index.m3u8
 东南卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227553/index.m3u8
 河南卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228221/index.m3u8
 湖南卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228227/index.m3u8
 广东卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228230/index.m3u8
-黑龙江视,http://ott.js.chinamobile.com/TVOD/3/224/3221228233/index.m3u8
-深圳卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228236/index.m3u8
 重庆卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221227729/index.m3u8
-天津卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228239/index.m3u8
-湖北卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228159/index.m3u8
 辽宁卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228162/index.m3u8
-安徽卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228153/index.m3u8
-浙江卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228147/index.m3u8
 山东卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228124/index.m3u8
 北京卫视,http://ott.js.chinamobile.com/TVOD/3/224/3221228115/index.m3u8
 冬奥纪实,http://ott.js.chinamobile.com/TVOD/3/224/3221227711/index.m3u8
@@ -520,10 +315,8 @@ CCTV高尔夫网球,http://ott.js.chinamobile.com/TVOD/3/224/3221228138/index.m3
 未知4K,http://ott.js.chinamobile.com/TVOD/3/224/3221228113/index.m3u8
 4K修复,http://ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
 未知,http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
-未知电视,http://ott.js.chinamobile.com/TVOD/3/224/3221227512/index.m3u8
 未知,http://ott.js.chinamobile.com/TVOD/3/224/3221227594/index.m3u8
 未知电影,http://ott.js.chinamobile.com/TVOD/3/224/3221227579/index.m3u8
-黑莓电影,http://ott.js.chinamobile.com/TVOD/3/224/3221227520/index.m3u8
 黑莓动画,http://ott.js.chinamobile.com/TVOD/3/224/3221227523/index.m3u8
 潮妈辣婆,http://ott.js.chinamobile.com/TVOD/3/224/3221227527/index.m3u8
 中国功夫,http://ott.js.chinamobile.com/TVOD/3/224/3221227530/index.m3u8
@@ -545,8 +338,6 @@ CCTV高尔夫网球,http://ott.js.chinamobile.com/TVOD/3/224/3221228138/index.m3
 欢笑4K,http://ott.js.chinamobile.com/TVOD/3/224/3221227715/index.m3u8
 全纪实,http://ott.js.chinamobile.com/TVOD/3/224/3221227771/index.m3u8
 动漫秀场,http://ott.js.chinamobile.com/TVOD/3/224/3221227774/index.m3u8
-TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 香港卫视 HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 凤凰中文,http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
 凤凰资讯,http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
@@ -575,14 +366,11 @@ NHK华语视界 (720p),https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh
 汕头综合,http://dslive.grtn.cn/stzh/playlist.m3u8
 湛江综合,http://dslive.grtn.cn/zjzh/sd/live.m3u8
 茂名综合,http://dslive.grtn.cn/mmzh/sd/live.m3u8
-江门综合,http://dslive.grtn.cn/jmzh/sd/live.m3u8
 珠海生活,http://dslive.grtn.cn/zhzh/sd/live.m3u8
 揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8
-阳江综合,http://dslive.grtn.cn/yjzh/sd/live.m3u8
 河源综合,http://dslive.grtn.cn/hyzh/sd/live.m3u8
 汕尾综合,http://dslive.grtn.cn/swzh/sd/live.m3u8
 云浮综合,http://dslive.grtn.cn/yfzh/sd/live.m3u8
-佛山高明,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.flv
 === 福建 ===,http://127.0.0.1
 福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
