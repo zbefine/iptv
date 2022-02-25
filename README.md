@@ -10,34 +10,23 @@
 
 
 
-**一些说明** 
- 
- 
-
-> 1. 如果发现小程序界面和下面预览的不一样，这是因为版本没更新到最新版，请删除小程序，再重新打开，或者重启手机。
-> 2. 双击当前分类名可以回到顶部。
-> 3. 若视频卡顿、黑屏，可尝试换线路或者刷新。
-> 4. 在视频控制条里，如果有 ☆ 五角星图标， 点击即可收藏！有部分频道是不支持收藏的。
-> 5. 使用中如遇bug请留言哦，谢谢！
-
-
-
 **界面预览**
 
 
 
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/new/1.png "1.png") 
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/new/2.png "2.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/new/3.png "3.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/new/4.png "4.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/new/5.png "5.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/new/6.png "6.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/new/7.png "7.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/new/8.png "8.png")
+![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/25/1.png "1.png") 
+![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/25/2.png "2.png")
+![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/25/3.png "3.png")
+![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/25/4.png "4.png")
+![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/25/5.png "5.png")
+![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/25/6.png "6.png")
 
 
 
 **历史版本** 
+
+> v26.0.0 **优化**
+
 
 
 > v23.0.0 修复屏幕常亮的问题；调整部分组件的显示；优化详情页面体验，页面整体不能滚动，视频固定，视频下面区域滚动；优化详情页视频的自动播放下一集功能、视频里面新增标题、加载画面；在【我的】页面新增手动 版本更新;
