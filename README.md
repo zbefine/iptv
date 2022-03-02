@@ -26,21 +26,6 @@
 ![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/25/6.png "6.png")
 
 
-**赞赏支持** 
-
-
-
-万物皆有时，比如你我相遇
-
-
-
-请赏我点铜板买喵粮自己吃，谢谢！
-
-
-
-![zszc (1)](https://user-images.githubusercontent.com/26646520/155719553-02f7cace-e8d0-44c4-90c4-dd707ae2b2bb.jpg)
-
-
 
 **历史版本** 
 
