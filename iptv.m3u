@@ -29,10 +29,6 @@ http://39.135.138.60:18890/PLTV/88888888/224/3221225918/index.m3u8
 http://39.134.65.179/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1HD
 http://39.134.65.181/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 group-title="央视",优购美食榜
-http://zqjp.u14.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="央视",优购美食榜
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="央视",CCTV-2HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2HD
@@ -45,10 +41,6 @@ http://117.148.179.160/PLTV/88888888/224/3221232362/index.m3u8
 http://39.130.202.77:6610/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2HD
 http://117.148.179.160/PLTV/88888888/224/3221231678/index.m3u8
-#EXTINF:-1 group-title="央视",聚大牌
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="央视",聚大牌
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="央视",CCTV-3HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3HD
@@ -83,10 +75,6 @@ http://39.135.138.60:18890/PLTV/88888888/224/3221225621/index.m3u8
 http://117.148.179.160/PLTV/88888888/224/3221231726/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4HD
 http://39.130.202.77:6610/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
-#EXTINF:-1 group-title="央视",每日优品
-http://ha.wheel.duolebo.com/live.m3u8?p=bf78cc61-10d5-4d65-a78c-71c5d9d39b19&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="央视",每日优品
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="央视",CCTV-5HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV-5HD
@@ -171,10 +159,6 @@ http://39.134.65.175/PLTV/88888888/224/3221225814/1.m3u8
 http://39.134.65.177/PLTV/88888888/224/3221225814/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-6HD
 http://39.130.202.77:6610/gitv_live/iptv-cctv6-hd/chunklist.m3u8
-#EXTINF:-1 group-title="央视",聚实惠
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="央视",聚实惠
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="央视",CCTV-7HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7HD
@@ -195,8 +179,6 @@ http://39.134.65.183/PLTV/88888888/224/3221225671/1.m3u8
 http://39.130.202.77:6610/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
 #EXTINF:-1 group-title="央视",CCTV-7HD
 http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-7HD
-http://183.207.248.71/cntv/live1/cctv-7/cctv-7
 #EXTINF:-1 group-title="央视",CCTV-8HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-8-HQ/G_CCTV-8-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8HD
@@ -219,10 +201,6 @@ http://39.134.65.175/PLTV/88888888/224/3221225795/1.m3u8
 http://39.134.65.177/PLTV/88888888/224/3221225795/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-8HD
 http://39.130.202.77:6610/gitv_live/iptv-cctv8-hd/chunklist.m3u8
-#EXTINF:-1 group-title="央视",优购厨具街
-http://zqjp.u12.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="央视",优购厨具街
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="央视",CCTV-9HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-9-HQ/G_CCTV-9-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV-9HD
@@ -245,6 +223,8 @@ http://39.134.65.173/PLTV/88888888/224/3221225676/1.m3u8
 http://39.130.202.77:6610/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
 #EXTINF:-1 group-title="央视",CCTV-9HD
 http://117.148.179.160/PLTV/88888888/224/3221231697/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-9HD
+http://183.207.248.71/cntv/live1/cctv-news/cctv-news
 #EXTINF:-1 group-title="央视",CCTV-10HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV-10HD
@@ -311,16 +291,16 @@ http://39.134.65.181/PLTV/88888888/224/3221225669/1.m3u8
 http://39.134.65.166/PLTV/88888888/224/3221225669/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-12HD
 http://39.134.65.173/PLTV/88888888/224/3221225669/1.m3u8
-#EXTINF:-1 group-title="央视",每日优品
-http://ha.wheel.duolebo.com/live.m3u8?p=bf78cc61-10d5-4d65-a78c-71c5d9d39b19&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="央视",每日优品
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
+#EXTINF:-1 group-title="央视",CCTV-12HD
+http://183.207.248.71/cntv/live1/cctv-12/cctv-12
 #EXTINF:-1 group-title="央视",CCTV-13HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13HD
 http://39.135.138.60:18890/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13HD
 http://39.134.65.177/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV-13HD
+http://111.40.196.9/PLTV/88888888/224/3221225504/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13HD
 http://39.134.65.173/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13HD
@@ -333,6 +313,8 @@ https://jwcdnqx.hebyun.com.cn/live/CCTVtest13/1500k/tzwj_video.m3u8
 http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-14-HQ/G_CCTV-14-HQ.m3u8
+#EXTINF:-1 group-title="央视",CCTV-14HD
+http://39.135.138.60:18890/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14HD
 http://39.135.138.60:18890/PLTV/88888888/224/3221225640/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14HD
@@ -353,10 +335,6 @@ http://39.130.202.77:6610/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
 http://117.148.179.160/PLTV/88888888/224/3221231648/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14HD
 http://140.207.241.3:8080/live/program/live/cctvsehd/4000000/d1.m3u8
-#EXTINF:-1 group-title="央视",优购大牌榜
-http://zqjp.u17.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="央视",优购大牌榜
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="央视",CCTV-15HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15HD
@@ -405,30 +383,10 @@ http://39.130.202.77:6610/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4中文国际美洲
 http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
-#EXTINF:-1 group-title="影视",聚好货
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="影视",聚好货
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
-#EXTINF:-1 group-title="影视",优购物Live
-http://zqjp.u02.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="影视",优购物Live
-http://47.75.139.205/shopping/yougouwu.png
-#EXTINF:-1 group-title="影视",优购厨具街
-http://zqjp.u12.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="影视",优购厨具街
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="央视",CCTV-8K超高清
 http://117.148.179.157/PLTV/88888888/224/3221233350/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4K超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 group-title="央视",聚大牌
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="央视",聚大牌
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
-#EXTINF:-1 group-title="央视",聚实惠
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="央视",聚实惠
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="央视",CCTV-怀旧剧场
 http://astream.apk1088.com:18888/channel.php?id=DOXjuchangHD_7000
 #EXTINF:-1 group-title="央视",CCTV-怀旧剧场
@@ -484,8 +442,6 @@ http://140.207.241.3:8080/live/program/live/zgqx/1300000/d1.m3u8
 #EXTINF:-1 group-title="央视",CGTN
 http://111.40.196.9/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 group-title="央视",CGTN
-http://111.40.196.9/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="央视",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="央视",CGTN
 http://39.135.138.60:18890/PLTV/88888888/224/3221225747/index.m3u8
@@ -507,8 +463,6 @@ http://183.207.248.71/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS
 http://111.63.117.13:6060/030000001000/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 #EXTINF:-1 group-title="央视",CGTN纪录
 http://39.135.138.60:18890/PLTV/88888888/224/3221225645/index.m3u8
-#EXTINF:-1 group-title="央视",CGTN纪录
-http://111.40.196.9/PLTV/88888888/224/3221225536/index.m3u8
 #EXTINF:-1 group-title="央视",CGTN纪录
 http://39.134.65.166/PLTV/88888888/224/3221225509/1.m3u8
 #EXTINF:-1 group-title="央视",CGTN纪录
@@ -533,8 +487,6 @@ http://39.134.19.248:6610/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomai
 http://39.134.19.248:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="央视",中央新影-新科动漫
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
-#EXTINF:-1 group-title="央视",CBN每日影院
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000565&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 group-title="央视",CBN幸福娱乐
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000567&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 group-title="央视",中国教育1HD
@@ -545,8 +497,6 @@ http://117.148.179.160/PLTV/88888888/224/3221231714/index.m3u8
 http://140.207.241.3:8080/live/program/live/zgjy1ott/4000000/d1.m3u8
 #EXTINF:-1 group-title="央视",中国教育1
 http://111.40.196.9/PLTV/88888888/224/3221225576/index.m3u8
-#EXTINF:-1 group-title="央视",中国教育1
-http://111.40.196.9/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 group-title="央视",中国教育1
 http://39.135.138.60:18890/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 group-title="央视",中国教育1
@@ -643,10 +593,6 @@ http://117.148.179.160/PLTV/88888888/224/3221230824/index.m3u8
 http://39.134.65.166/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 group-title="湖南",湖南卫视HD
 http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8
-#EXTINF:-1 group-title="卫视",优购美食榜
-http://zqjp.u14.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="卫视",优购美食榜
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="江苏",江苏卫视HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_JIANGSU-HQ/G_JIANGSU-HQ.m3u8
 #EXTINF:-1 group-title="江苏",江苏卫视HD
@@ -706,6 +652,8 @@ http://111.40.196.9/PLTV/88888888/224/3221225509/index.m3u8
 #EXTINF:-1 group-title="上海",东方卫视HD
 http://39.135.138.60:18890/PLTV/88888888/224/3221225659/index.m3u8
 #EXTINF:-1 group-title="上海",东方卫视HD
+http://111.40.196.9/PLTV/88888888/224/3221225512/index.m3u8
+#EXTINF:-1 group-title="上海",东方卫视HD
 http://111.40.196.9/PLTV/88888888/224/3221225542/index.m3u8
 #EXTINF:-1 group-title="上海",东方卫视HD
 http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
@@ -723,10 +671,6 @@ http://39.134.65.175/PLTV/88888888/224/3221225672/1.m3u8
 http://39.130.202.77:6610/gitv_live/DFWS-HD/DFWS-HD.m3u8
 #EXTINF:-1 group-title="上海",东方卫视HD
 http://117.148.179.160/PLTV/88888888/224/3221231450/index.m3u8
-#EXTINF:-1 group-title="卫视",聚好货
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="卫视",聚好货
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="广东",广东卫视HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_GUANGDONG-HQ/G_GUANGDONG-HQ.m3u8
 #EXTINF:-1 group-title="广东",广东卫视HD
@@ -857,10 +801,6 @@ http://39.130.202.77:6610/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8
 http://117.148.179.160/PLTV/88888888/224/3221227909/index.m3u8
 #EXTINF:-1 group-title="山东",山东卫视HD
 http://140.207.241.3:8080/live/program/live/sdwshd/4000000/d1.m3u8
-#EXTINF:-1 group-title="卫视",优购精品汇
-http://zqjp.u11.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="卫视",优购精品汇
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="湖北",湖北卫视HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_HUBEI-HQ/G_HUBEI-HQ.m3u8
 #EXTINF:-1 group-title="湖北",湖北卫视HD
@@ -878,6 +818,8 @@ http://117.148.179.160/PLTV/88888888/224/3221231888/index.m3u8
 #EXTINF:-1 group-title="湖北",湖北卫视HD
 http://39.130.202.77:6610/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8
 #EXTINF:-1 group-title="湖北",湖北卫视HD
+http://39.134.65.164/PLTV/88888888/224/3221225871/1.m3u8
+#EXTINF:-1 group-title="湖北",湖北卫视HD
 http://39.134.65.183/PLTV/88888888/224/3221225871/1.m3u8
 #EXTINF:-1 group-title="湖北",湖北卫视HD
 http://39.134.65.162/PLTV/88888888/224/3221225569/1.m3u8
@@ -893,8 +835,6 @@ http://39.134.67.226/PLTV/88888888/224/3221225847/index.m3u8
 http://iptv.tvfix.org/hls/hljhd.m3u8
 #EXTINF:-1 group-title="黑龙江",黑龙江卫视HD
 http://39.135.138.60:18890/PLTV/88888888/224/3221225690/index.m3u8
-#EXTINF:-1 group-title="黑龙江",黑龙江卫视HD
-http://111.40.196.9/PLTV/88888888/224/3221225541/index.m3u8
 #EXTINF:-1 group-title="黑龙江",黑龙江卫视HD
 http://39.135.138.60:18890/PLTV/88888888/224/3221225736/index.m3u8
 #EXTINF:-1 group-title="黑龙江",黑龙江卫视HD
@@ -933,12 +873,6 @@ http://39.134.65.179/PLTV/88888888/224/3221225851/1.m3u8
 http://39.134.65.183/PLTV/88888888/224/3221225851/1.m3u8
 #EXTINF:-1 group-title="安徽",安徽卫视HD
 http://140.207.241.3:8080/live/program/live/ahwshd/4000000/d1.m3u8
-#EXTINF:-1 group-title="安徽",安徽卫视HD
-http://183.207.248.71/cntv/live1/anhuistv/anhuistv
-#EXTINF:-1 group-title="卫视",优购物Live
-http://zqjp.u02.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="卫视",优购物Live
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="辽宁",辽宁卫视HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_LIAONING-HQ/G_LIAONING-HQ.m3u8
 #EXTINF:-1 group-title="辽宁",辽宁卫视HD
@@ -1027,10 +961,6 @@ http://39.130.202.76:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 http://39.135.55.7:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="云南",云南卫视HD
 http://astream.apk1088.com:18888/channel.php?id=yunnan_1500&/PLTV/hls.smil.m3u8
-#EXTINF:-1 group-title="卫视",优购必买好货
-http://zqjp.u15.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="卫视",优购必买好货
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="河南",河南卫视HD
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_HENAN-HQ/G_HENAN-HQ.m3u8
 #EXTINF:-1 group-title="河南",河南卫视HD
@@ -1065,8 +995,6 @@ http://39.134.65.164/PLTV/88888888/224/3221225869/1.m3u8
 http://39.134.65.183/PLTV/88888888/224/3221225869/1.m3u8
 #EXTINF:-1 group-title="甘肃",甘肃卫视HD
 http://39.136.66.35/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225755/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="甘肃",甘肃卫视HD
-http://v.mp.haue.edu.cn/hls/gstv.m3u8
 #EXTINF:-1 group-title="福建",厦门卫视HD
 http://39.135.55.7:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="福建",厦门卫视HD
@@ -1091,10 +1019,6 @@ http://39.134.65.183/PLTV/88888888/224/3221225845/1.m3u8
 http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8
 #EXTINF:-1 group-title="广东",南方卫视(省内)
 http://117.148.179.147/PLTV/88888888/224/3221231661/index.m3u8
-#EXTINF:-1 group-title="广东",优购厨具街
-http://zqjp.u12.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="广东",优购厨具街
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="山西",山西卫视
 http://111.40.196.9/PLTV/88888888/224/3221225520/index.m3u8
 #EXTINF:-1 group-title="山西",山西卫视
@@ -1141,6 +1065,8 @@ http://39.134.65.162/PLTV/88888888/224/3221225573/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225573/1.m3u8
 #EXTINF:-1 group-title="青海",青海卫视
 http://140.207.241.3:8080/live/program/live/qhws/1300000/d1.m3u8
+#EXTINF:-1 group-title="青海",青海卫视
+http://183.207.248.71/gitv/live1/G_QINGHAI/G_QINGHAI
 #EXTINF:-1 group-title="西藏",西藏卫视
 http://39.134.19.248:6610/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="西藏",西藏卫视
@@ -1185,8 +1111,6 @@ http://39.134.65.162/PLTV/88888888/224/3221225577/1.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225835/1.m3u8
 #EXTINF:-1 group-title="内蒙古",内蒙古卫视
 http://140.207.241.3:8080/live/program/live/nmgws/1300000/d1.m3u8
-#EXTINF:-1 group-title="内蒙古",内蒙古卫视
-http://183.207.248.71/gitv/live1/G_NEIMENGGU/G_NEIMENGGU
 #EXTINF:-1 group-title="宁夏",宁夏卫视
 http://gdctcc-livod.ali.gitv.tv/gitv_live/G_NINGXIA/G_NINGXIA.m3u8
 #EXTINF:-1 group-title="宁夏",宁夏卫视
@@ -1231,8 +1155,6 @@ http://117.148.179.160/PLTV/88888888/224/3221231451/index.m3u8
 http://140.207.241.3:8080/live/program/live/xjws/1300000/d1.m3u8
 #EXTINF:-1 group-title="新疆",兵团卫视
 http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
-#EXTINF:-1 group-title="新疆",兵团卫视
-http://111.40.196.9/PLTV/88888888/224/3221225637/index.m3u8
 #EXTINF:-1 group-title="新疆",兵团卫视
 http://39.135.138.60:18890/PLTV/88888888/224/3221226200/index.m3u8
 #EXTINF:-1 group-title="新疆",兵团卫视
@@ -1279,22 +1201,10 @@ http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8
 http://live1.ahwanyun.cn/wylive/9f8f237e-586a-4e53-ae57-8abc222ff0f1.m3u8?auth_key=1615545302-0-0-ef33a0fcd60a5fcafde386de9f7728f0
 #EXTINF:-1 group-title="安徽",安徽经济生活
 http://live1.ahwanyun.cn/wylive/427c4278-8044-4305-a83c-d8102148e3cc.m3u8?auth_key=1615544143-0-0-160a5148b697100a4a831815226a2ad2
-#EXTINF:-1 group-title="安徽",聚好货
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="安徽",聚好货
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="安徽",安徽综艺体育
 http://live1.ahwanyun.cn/wylive/ccbf08e9-40a1-43ac-b0ab-89b32d90c9f8.m3u8?auth_key=1615545347-0-0-4e248398b58643f276f7ea9608522efb
-#EXTINF:-1 group-title="安徽",优购美食榜
-http://zqjp.u14.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="安徽",优购美食榜
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="安徽",安徽导视
 http://agsj.appcoo.com:8000/agsj/test/index.m3u8
-#EXTINF:-1 group-title="安徽",优购厨具街
-http://zqjp.u12.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="安徽",优购厨具街
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="安徽",合肥新闻
 http://223.244.92.30:808/2774goN/1000/live.m3u8
 #EXTINF:-1 group-title="安徽",合肥生活
@@ -1323,12 +1233,6 @@ http://cm.wshls.homecdn.com/live/4abdf.m3u8
 http://cm.wshls.homecdn.com/live/4abdf.flv
 #EXTINF:-1 group-title="安徽",池州公共频道
 http://cm.wshls.homecdn.com/live/829d.flv
-#EXTINF:-1 group-title="安徽",淮北新闻频道
-http://live.0561rtv.cn/xwzh/hd/live.m3u8
-#EXTINF:-1 group-title="安徽",淮北公共频道
-http://live.0561rtv.cn/ggpd/hd/live.m3u8
-#EXTINF:-1 group-title="安徽",淮北教育频道
-http://live.0561rtv.cn/jypd/hd/live.m3u8
 #EXTINF:-1 group-title="安徽",宿州新闻综合
 http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 #EXTINF:-1 group-title="安徽",宿州公共频道
@@ -1349,6 +1253,10 @@ http://dstpush1.retalltech.com/app/stream1.m3u8
 http://dstpush1.retalltech.com/app/stream2.m3u8
 #EXTINF:-1 group-title="安徽",铜陵科教频道
 http://dstpush1.retalltech.com/app/stream3.m3u8
+#EXTINF:-1 group-title="安徽",亳州新闻频道
+http://zbbf2.ahbztv.com/live/416.m3u8
+#EXTINF:-1 group-title="安徽",亳州农村频道
+http://zbbf2.ahbztv.com/live/418.m3u8
 #EXTINF:-1 group-title="安徽",芜湖新闻综合
 http://play.wuhunews.cn/whbtv/channel1_sd.m3u8
 #EXTINF:-1 group-title="安徽",芜湖新闻综合
@@ -1421,6 +1329,8 @@ http://p2.weizan.cn/1110366022/132071060845712961/live.m3u8
 http://pili-live-hls.guangde.ahxmgk.com/guangde-live/guangde20200324143845.m3u8
 #EXTINF:-1 group-title="安徽",广德生活频道
 http://pili-live-hls.guangde.ahxmgk.com/guangde-live/guangde20200515090119.m3u8
+#EXTINF:-1 group-title="安徽",郎溪新闻频道
+http://117.70.93.210:1935/live/xinwen/playlist.m3u8
 #EXTINF:-1 group-title="安徽",当涂新闻综合
 http://newvideo.dangtutv.cn:8278/dt1/playlist.m3u8
 #EXTINF:-1 group-title="安徽",濉溪电视一套
@@ -1477,10 +1387,6 @@ http://220.180.24.62:1935/live/live1/playlist.m3u8
 http://play.hhnynews.com/hhny/zhpd.m3u8?auth_key=1659380497-0-0-b07e3e3cd99f9355b6aa1e79fbd305f2
 #EXTINF:-1 group-title="北京",北京文艺HD
 http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
-#EXTINF:-1 group-title="北京",聚好货
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="北京",聚好货
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="北京",北京冬奥纪实HD
 http://39.135.138.60:18890/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 group-title="北京",北京冬奥纪实HD
@@ -1491,20 +1397,12 @@ http://39.130.202.77:6610/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225670/1.m3u8
 #EXTINF:-1 group-title="北京",北京冬奥纪实HD
 http://39.134.65.166/PLTV/88888888/224/3221225670/1.m3u8
-#EXTINF:-1 group-title="北京",优购精品汇
-http://zqjp.u11.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="北京",优购精品汇
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="北京",北京文艺
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
-#EXTINF:-1 group-title="北京",北京文艺
-http://v.mp.haue.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 group-title="北京",北京科教
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
 #EXTINF:-1 group-title="北京",北京影视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
-#EXTINF:-1 group-title="北京",北京影视
-http://v.mp.haue.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 group-title="北京",北京财经
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
 #EXTINF:-1 group-title="北京",北京生活
@@ -1513,16 +1411,12 @@ http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
 #EXTINF:-1 group-title="北京",北京青年
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
-#EXTINF:-1 group-title="北京",北京青年
-http://v.mp.haue.edu.cn/hls/btv8hd.m3u8
 #EXTINF:-1 group-title="北京",北京新闻
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
-#EXTINF:-1 group-title="北京",每日优品
-http://ha.wheel.duolebo.com/live.m3u8?p=bf78cc61-10d5-4d65-a78c-71c5d9d39b19&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="北京",每日优品
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="北京",北京卡酷少儿
 http://111.40.196.9/PLTV/88888888/224/3221225580/index.m3u8
+#EXTINF:-1 group-title="北京",北京卡酷少儿
+http://111.40.196.9/PLTV/88888888/224/3221225645/index.m3u8
 #EXTINF:-1 group-title="北京",北京卡酷少儿
 http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 group-title="北京",北京卡酷少儿
@@ -1537,8 +1431,6 @@ http://39.134.65.164/PLTV/88888888/224/3221225562/1.m3u8
 http://140.207.241.3:8080/live/program/live/kkkt/1300000/d1.m3u8
 #EXTINF:-1 group-title="北京",北京卡酷少儿
 http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
-#EXTINF:-1 group-title="北京",优购美食榜
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="北京",中国交通北京
 http://tv.lanjingfm.com/cctbn/beijing.m3u8
 #EXTINF:-1 group-title="IPTV",北京IPTV4K超清
@@ -1557,6 +1449,8 @@ http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index
 http://117.148.179.160/PLTV/88888888/224/3221231718/index.m3u8
 #EXTINF:-1 group-title="北京",环球旅游
 http://117.148.179.160/PLTV/88888888/224/3221231712/index.m3u8
+#EXTINF:-1 group-title="北京",京视剧场
+http://183.207.248.71/gitv/live1/G_JINGJU/G_JINGJU
 #EXTINF:-1 group-title="北京",通州电视台
 http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1 group-title="北京",房山无线频道
@@ -1579,16 +1473,14 @@ http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 #EXTINF:-1 group-title="北京",中国国际教育3
 http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+#EXTINF:-1 group-title="北京",中国国际教育4
+http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 #EXTINF:-1 group-title="北京",党员教育频道
 http://12371alic.v.myalicdn.com/12371/dangyuanwang_1/index.m3u8
 #EXTINF:-1 group-title="重庆",重庆新闻
 http://dyzy.pub:8000/udp/235.254.197.199:7980
 #EXTINF:-1 group-title="重庆",重庆社会与法
 http://dyzy.pub:8000/udp/235.254.199.181:7980
-#EXTINF:-1 group-title="重庆",优购精品汇
-http://zqjp.u11.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="重庆",优购精品汇
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="重庆",重庆科教
 http://dyzy.pub:8000/udp/235.254.199.188:7980
 #EXTINF:-1 group-title="重庆",重庆影视
@@ -1662,7 +1554,17 @@ http://kaixianlive.cbg.cn:10345/5.m3u8
 #EXTINF:-1 group-title="重庆",大足综合频道
 http://218.201.85.71:3170/m3u8
 #EXTINF:-1 group-title="重庆",綦江综合频道
+http://qxlmlive.cbg.cn:1935/app_2/ls_25.stream/chunklist.m3u8
+#EXTINF:-1 group-title="重庆",綦江综合频道
 http://113.207.29.195:1935/app_2/_definst_/ls_25.stream/playlist.m3u8
+#EXTINF:-1 group-title="重庆",南川新闻综合
+http://nanchuanlive.cbg.cn:30000/1111.m3u8
+#EXTINF:-1 group-title="重庆",南川新闻综合
+http://nctvsp.nctv.tv:30000/1111.m3u8
+#EXTINF:-1 group-title="重庆",南川新闻综合
+http://nctvsp.nctv.tv:30000/flv1
+#EXTINF:-1 group-title="重庆",南川旅游经济
+http://nctvsp.nctv.tv:30000/flv5
 #EXTINF:-1 group-title="重庆",江津新闻综合
 http://jiangjinlive.cbg.cn:1935/ch1.m3u8
 #EXTINF:-1 group-title="重庆",江津新闻综合
@@ -1695,6 +1597,8 @@ http://222.178.181.121:12034/ts1
 http://qxlmlive.cbg.cn:1935/applive/wspd001/chunklist.m3u8
 #EXTINF:-1 group-title="重庆",巫山神女频道
 http://qxlmlive.cbg.cn:1935/applive/wspd002/chunklist.m3u8
+#EXTINF:-1 group-title="重庆",涪陵电视台
+http://livefuling.chinamcache.com/liveful/fldszb001.m3u8
 #EXTINF:-1 group-title="重庆",涪陵电视台
 http://livefuling.chinamcache.com/liveful/fldszb001.flv
 #EXTINF:-1 group-title="福建",福建综合
@@ -1971,20 +1875,14 @@ http://astream.apk1088.com:18888/channel.php?id=gdsportsHD_7000
 http://39.135.47.101:6610/000000001000/SD-1500k-576P-zhujiangxw/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="广东",广东珠江
 http://39.135.32.5:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="广东",购好东西
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="广东",购好东西
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
+#EXTINF:-1 group-title="广东",广东新闻
+http://teyonds.weetai.cn/cdn1/iptv/tyzb14.php?id=gdxw
+#EXTINF:-1 group-title="广东",广东公共
+http://teyonds.weetai.cn/cdn1/iptv/tyzb14.php?id=gdgg
 #EXTINF:-1 group-title="广东",广东房产
 http://astream.apk1088.com:18888/channel.php?id=fangchan_1500
-#EXTINF:-1 group-title="广东",每周爆品
-http://ha.wheel.duolebo.com/live.m3u8?p=4f751483-44fe-43b4-a903-21c06e4076e7&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="广东",每周爆品
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
-#EXTINF:-1 group-title="广东",超值特卖
-http://ha.wheel.duolebo.com/live.m3u8?p=4f751483-44fe-43b4-a903-21c06e4076e7&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="广东",超值特卖
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
+#EXTINF:-1 group-title="广东",广东国际
+http://teyonds.weetai.cn/cdn1/iptv/tyzb14.php?id=gdgj
 #EXTINF:-1 group-title="广东",嘉佳卡通
 http://111.40.196.9/PLTV/88888888/224/3221225647/index.m3u8
 #EXTINF:-1 group-title="广东",嘉佳卡通
@@ -2001,6 +1899,8 @@ http://astream.apk1088.com:18888/channel.php?id=GDjingjikejiaoHD_7000
 https://pili-live-hls-metoo.v2gogo.com/metoo-live/905db01e5c06496ba128e547bb87158b.m3u8
 #EXTINF:-1 group-title="广东",广东综艺4K
 http://astream.apk1088.com:18888/channel.php?id=GDZYHD4K_38000
+#EXTINF:-1 group-title="广东",广东综艺4K
+http://teyonds.weetai.cn/cdn1/iptv/tyzb14.php?id=gdzy
 #EXTINF:-1 group-title="广东",广东影视
 http://astream.apk1088.com:18888/channel.php?id=gdyingshi_1500
 #EXTINF:-1 group-title="广东",广东少儿
@@ -2020,7 +1920,7 @@ http://ye23.win/iptv/gztv.php?id=fazhi
 #EXTINF:-1 group-title="广东",深圳都市
 http://ye23.win/iptv/sztv.php?id=2
 #EXTINF:-1 group-title="广东",深圳电视剧
-http://ye23.win/iptv/sztv.php?id=3
+http://teyonds.weetai.cn/cdn1/iptv/tyzb34.php?id=szdsj
 #EXTINF:-1 group-title="广东",深圳财经生活
 http://ye23.win/iptv/sztv.php?id=5
 #EXTINF:-1 group-title="广东",深圳娱乐
@@ -2079,6 +1979,8 @@ http://astream.apk1088.com:18888/channel.php？id=shaoguanzonghe_1500&/PLTV/hls.
 http://astream.apk1088.com:18888/channel.php?id=shaoguangonggong_1500&/PLTV/hls.smil.m3u8
 #EXTINF:-1 group-title="广东",汕头新闻综合
 http://astream.apk1088.com:18888/channel.php?id=shantouyitaogaoqing_4500
+#EXTINF:-1 group-title="广东",汕头新闻综合
+http://teyonds.weetai.cn/cdn1/iptv/tyzb34.php?id=stxwzh
 #EXTINF:-1 group-title="广东",汕头经济生活
 http://astream.apk1088.com:18888/channel.php?id=shantouertaogaoqing_4500
 #EXTINF:-1 group-title="广东",汕头文旅体育
@@ -2139,8 +2041,12 @@ http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
 http://chaoan.chaoantv.com:8278/live/chaoanyingshi.m3u8
 #EXTINF:-1 group-title="广东",增城综合
 http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.M3U8
+#EXTINF:-1 group-title="广东",普宁综合
+http://teyonds.weetai.cn/cdn1/iptv/tyzb14.php?id=gdjypn
 #EXTINF:-1 group-title="广东",丰顺综合
 https://p2.weizan.cn/1033266991/776920781637802678/live.m3u8
+#EXTINF:-1 group-title="广东",丰顺影视
+https://p2.weizan.cn/1033266991/748750643185685521/live.m3u8
 #EXTINF:-1 group-title="广东",平远综合
 https://p2.weizan.cn/1033266991/615876688276112015/live.m3u8
 #EXTINF:-1 group-title="广东",五华综合
@@ -2181,18 +2087,6 @@ http://hlsv2.quklive.com/live/1638263457563164/index.m3u8
 https://lives.myun.tv/live/lj2epd30.m3u8
 #EXTINF:-1 group-title="贵州",贵州公共
 http://47.104.173.199/b/hoge.php?ip=gxwztv&id=23&auth=niubiplus
-#EXTINF:-1 group-title="贵州",聚大牌
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="贵州",聚大牌
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
-#EXTINF:-1 group-title="贵州",优购必买好货
-http://zqjp.u15.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="贵州",优购必买好货
-http://47.75.139.205/shopping/yougouwu.png
-#EXTINF:-1 group-title="贵州",优购美食榜
-http://zqjp.u14.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="贵州",优购美食榜
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="贵州",铜仁新闻综合
 http://media.trrtv.com:8083/videos/live/10/37/iY2ZjcOkrjAJN/iY2ZjcOkrjAJN.M3U8
 #EXTINF:-1 group-title="贵州",铜仁公共频道
@@ -2309,6 +2203,8 @@ http://hls.hsrtv.cn/hls/hstv2.m3u8
 http://www.nettvpro.live/hls/tangshan.php?id=1
 #EXTINF:-1 group-title="河北",唐山影视频道
 http://www.nettvpro.live/hls/tangshan.php?id=2
+#EXTINF:-1 group-title="河北",唐山公共频道
+http://www.nettvpro.live/hls/tangshan.php?id=3
 #EXTINF:-1 group-title="河北",邢台综合频道
 https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北",邢台综合频道
@@ -2465,6 +2361,8 @@ http://hbga.chinashadt.com:1935/live/stream:gayl.stream/playlist.m3u8
 http://hbxh.chinashadt.com:2038/live/stream:xhzh.stream/playlist.m3u8
 #EXTINF:-1 group-title="河北",香河影视频道
 http://hbxh.chinashadt.com:2038/live/stream:xhys.stream/playlist.m3u8
+#EXTINF:-1 group-title="河北",永清综合频道
+http://60.10.203.69:8000/0.m3u8
 #EXTINF:-1 group-title="河北",永清影视频道
 http://60.10.203.69:8000/4.m3u8
 #EXTINF:-1 group-title="河北",临西一套
@@ -2522,15 +2420,9 @@ https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北",任丘文娱
 https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北",定州新闻综合
-https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
-#EXTINF:-1 group-title="河北",定州新闻综合
 https://jwcdnqx.hebyun.com.cn/live/xxzhpd/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北",定州生活频道
-https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
-#EXTINF:-1 group-title="河北",定州生活频道
 https://jwcdnqx.hebyun.com.cn/live/shpd/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北",定州国学影视
-https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
 #EXTINF:-1 group-title="河北",定州国学影视
 https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北",涞水新闻频道
@@ -2565,8 +2457,6 @@ https://jwcdnqx.hebyun.com.cn/live/gbdxwzhtv/1500k/tzwj_video.m3u8
 https://jwliveqxzb.hebyun.com.cn/cdxxwzhtv/cdxxwzhtv.m3u8
 #EXTINF:-1 group-title="河北",承德县新闻
 https://jwcdnqx.hebyun.com.cn/live/cdxxwzhtv/1500k/tzwj_video.m3u8
-#EXTINF:-1 group-title="河北",丰宁综合频道
-https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
 #EXTINF:-1 group-title="河北",丰宁综合频道
 https://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="河北",丰宁娱乐频道
@@ -2823,8 +2713,6 @@ http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 http://live.dxhmt.cn:9081/tv/11481-4.m3u8
 #EXTINF:-1 group-title="河南",登封综合频道
 http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
-#EXTINF:-1 group-title="河南",登封综合频道
-http://live.dxhmt.cn:9081/tv/10185-1.m3u8
 #EXTINF:-1 group-title="河南",巩义新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
 #EXTINF:-1 group-title="河南",巩义新闻综合
@@ -2835,8 +2723,6 @@ http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
 http://live.dxhmt.cn:9081/tv/10106-1.m3u8
 #EXTINF:-1 group-title="河南",新密新闻频道
 http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
-#EXTINF:-1 group-title="河南",新密新闻频道
-http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 #EXTINF:-1 group-title="河南",新郑综合频道
 http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
 #EXTINF:-1 group-title="河南",新郑综合频道
@@ -2911,8 +2797,6 @@ http://live.dxhmt.cn:9081/tv/10326-1.m3u8
 http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8
 #EXTINF:-1 group-title="河南",嵩县综合新闻
 http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
-#EXTINF:-1 group-title="河南",嵩县综合新闻
-http://live.dxhmt.cn:9081/tv/10325-1.m3u8
 #EXTINF:-1 group-title="河南",新安新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
 #EXTINF:-1 group-title="河南",新安新闻综合
@@ -2955,8 +2839,6 @@ http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
 http://live.dxhmt.cn:9081/tv/11381-1.m3u8
 #EXTINF:-1 group-title="河南",方城一套
 http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
-#EXTINF:-1 group-title="河南",方城一套
-http://live.dxhmt.cn:9081/tv/11322-1.m3u8
 #EXTINF:-1 group-title="河南",内乡综合
 http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
 #EXTINF:-1 group-title="河南",内乡综合
@@ -3043,14 +2925,14 @@ http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
 http://live.dxhmt.cn:9081/tv/11726-1.m3u8
 #EXTINF:-1 group-title="河南",平舆综合
 http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
-#EXTINF:-1 group-title="河南",平舆综合
-http://live.dxhmt.cn:9081/tv/11723-1.m3u8
 #EXTINF:-1 group-title="河南",确山综合
 http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
 #EXTINF:-1 group-title="河南",确山综合
 http://live.dxhmt.cn:9081/tv/11725-1.m3u8
 #EXTINF:-1 group-title="河南",汝南综合
 http://tvpull.dxhmt.cn:9081/tv/11727-1.m3u8
+#EXTINF:-1 group-title="河南",汝南综合
+http://live.dxhmt.cn:9081/tv/11727-1.m3u8
 #EXTINF:-1 group-title="河南",上蔡综合
 http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
 #EXTINF:-1 group-title="河南",上蔡综合
@@ -3081,8 +2963,6 @@ http://tvpull.dxhmt.cn:9081/tv/10727-2.m3u8
 http://live.dxhmt.cn:9081/tv/10727-2.m3u8
 #EXTINF:-1 group-title="河南",封丘戏曲频道
 http://tvpull.dxhmt.cn:9081/tv/10727-3.m3u8
-#EXTINF:-1 group-title="河南",封丘戏曲频道
-http://live.dxhmt.cn:9081/tv/10727-3.m3u8
 #EXTINF:-1 group-title="河南",获嘉综合频道
 http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
 #EXTINF:-1 group-title="河南",获嘉综合频道
@@ -3129,8 +3009,6 @@ http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
 http://live.dxhmt.cn:9081/tv/10526-1.m3u8
 #EXTINF:-1 group-title="河南",滑县民生
 http://tvpull.dxhmt.cn:9081/tv/10526-2.m3u8
-#EXTINF:-1 group-title="河南",滑县民生
-http://live.dxhmt.cn:9081/tv/10526-2.m3u8
 #EXTINF:-1 group-title="河南",滑县快乐3
 http://tvpull.dxhmt.cn:9081/tv/10526-3.m3u8
 #EXTINF:-1 group-title="河南",滑县快乐3
@@ -3151,8 +3029,6 @@ http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
 http://live.dxhmt.cn:9081/tv/10622-1.m3u8
 #EXTINF:-1 group-title="河南",浚县一套
 http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
-#EXTINF:-1 group-title="河南",浚县一套
-http://live.dxhmt.cn:9081/tv/10621-1.m3u8
 #EXTINF:-1 group-title="河南",范县新闻综合
 http://live.dxhmt.cn:9080/13603832636/13abd3089d9c47058fe34c49a6182981.m3u8
 #EXTINF:-1 group-title="河南",南乐综合频道
@@ -3163,6 +3039,8 @@ http://live.dxhmt.cn:9081/tv/10923-1.m3u8
 http://zhpull.dxhmt.cn/puyangxian/0779dbf4086a455fa1f36e3d56740a41/playlist.m3u8
 #EXTINF:-1 group-title="河南",清丰综合频道
 http://tvpull.dxhmt.cn:9081/tv/10922-1.m3u8
+#EXTINF:-1 group-title="河南",清丰综合频道
+http://live.dxhmt.cn:9081/tv/10922-1.m3u8
 #EXTINF:-1 group-title="河南",台前新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10927-1.m3u8
 #EXTINF:-1 group-title="河南",台前新闻综合
@@ -3173,8 +3051,6 @@ http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
 http://live.dxhmt.cn:9081/tv/11522-1.m3u8
 #EXTINF:-1 group-title="河南",固始综合频道
 http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
-#EXTINF:-1 group-title="河南",固始综合频道
-http://live.dxhmt.cn:9081/tv/11525-1.m3u8
 #EXTINF:-1 group-title="河南",淮滨综合频道
 http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
 #EXTINF:-1 group-title="河南",淮滨综合频道
@@ -3203,8 +3079,12 @@ http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
 http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 #EXTINF:-1 group-title="河南",襄城综合频道
 http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+#EXTINF:-1 group-title="河南",襄城综合频道
+http://live.dxhmt.cn:9081/tv/11025-1.m3u8
 #EXTINF:-1 group-title="河南",鄢陵综合频道
 http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
+#EXTINF:-1 group-title="河南",鄢陵综合频道
+http://live.dxhmt.cn:9081/tv/11024-1.m3u8
 #EXTINF:-1 group-title="河南",禹州综合
 http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
 #EXTINF:-1 group-title="河南",禹州综合
@@ -3229,8 +3109,6 @@ http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=167250
 http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichangzh
 #EXTINF:-1 group-title="湖北",宜昌旅游生活
 http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichanglysh
-#EXTINF:-1 group-title="湖北",宜昌公共
-http://player.521fanli.cn/1691/hubei/yichangcjym3u8.php?id=yichanggg
 #EXTINF:-1 group-title="湖北",十堰新闻
 http://p2bj.weizan.cn/351104/837056569960221505/live.m3u8
 #EXTINF:-1 group-title="湖北",十堰公共
@@ -3243,10 +3121,6 @@ http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 #EXTINF:-1 group-title="湖北",荆门公共频道
 http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
-#EXTINF:-1 group-title="湖北",随州综合
-http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8
-#EXTINF:-1 group-title="湖北",随州农村
-http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8
 #EXTINF:-1 group-title="湖北",仙桃新闻综合
 http://221.233.242.239:280/live/71/playlist.m3u8
 #EXTINF:-1 group-title="湖北",仙桃生活文体
@@ -3267,10 +3141,8 @@ http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUFM01.m3u8?auth_key=167250
 http://sstvplay.ssgdlive.com/live/sszh.m3u8
 #EXTINF:-1 group-title="湖北",石首影视
 http://sstvplay.ssgdlive.com/live/sszh2.m3u8
-#EXTINF:-1 group-title="湖北",保康新闻综合
-http://bktvplay.gdnewmedia.cc/live/bk_xwzh.m3u8
-#EXTINF:-1 group-title="湖北",保康文化旅游
-http://bktvplay.gdnewmedia.cc/live/bk_whly.m3u8
+#EXTINF:-1 group-title="湖北",崇阳新闻综合
+http://www.cyxw.cn:10500/hls/live.m3u8
 #EXTINF:-1 group-title="湖北",黄陂新闻频道
 http://live.hptv.com.cn:10080/live/cctv13.m3u8
 #EXTINF:-1 group-title="湖北",黄陂生活频道
@@ -3287,18 +3159,10 @@ https://p2bj.weizan.cn/309104/751799777014582046/live.m3u8
 http://39.130.202.77:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 #EXTINF:-1 group-title="湖南",金鹰纪实HD
 http://117.148.179.157/PLTV/88888888/224/3221231582/index.m3u8
-#EXTINF:-1 group-title="湖南",每周爆品
-http://ha.wheel.duolebo.com/live.m3u8?p=4f751483-44fe-43b4-a903-21c06e4076e7&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="湖南",每周爆品
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="湖南",湖南经视
 http://111.40.196.9/PLTV/88888888/224/3221225658/index.m3u8
 #EXTINF:-1 group-title="湖南",湖南电视剧
 http://111.40.196.9/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 group-title="湖南",优购美食榜
-http://zqjp.u14.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="湖南",优购美食榜
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="湖南",湖南都市
 http://124.232.231.246:6610/000000001001/201600020003/index.m3u8?A=&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="湖南",湖南都市
@@ -3307,10 +3171,6 @@ http://111.40.196.9/PLTV/88888888/224/3221225656/index.m3u8
 http://124.232.231.246:6610/000000001001/201600010003/index.m3u8?A=&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="湖南",湖南都市
 http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8
-#EXTINF:-1 group-title="湖南",购好东西
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="湖南",购好东西
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="湖南",茶频道
 http://39.136.66.35/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226240/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="湖南",茶频道
@@ -3329,10 +3189,6 @@ http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jykt/1300000/mnf.m
 http://pull.hnedutv.com/live/hnedutv1206.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 group-title="湖南",湖南教育
 http://pull.hnedutv.com/live/edutv.m3u8
-#EXTINF:-1 group-title="湖南",聚实惠
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="湖南",聚实惠
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="湖南",长沙政法频道
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.flv?auth_key=1936693647-0-0-09a2ab1e7112296d76b1c37999a5cf32
 #EXTINF:-1 group-title="湖南",长沙女性频道
@@ -3345,8 +3201,6 @@ https://hls.quklive.com/live/1551751256158751/index.m3u8
 https://hls.quklive.com/live/1551751084371710/index.m3u8
 #EXTINF:-1 group-title="湖南",长沙移动电视
 https://hls.quklive.com/live/1551750947083772/index.m3u8
-#EXTINF:-1 group-title="湖南",株洲新闻综合
-http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
 #EXTINF:-1 group-title="湖南",湘潭新闻综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 #EXTINF:-1 group-title="湖南",湘潭公共频道
@@ -3357,6 +3211,8 @@ http://live2.sytv.net.cn/xwzh/playlist.m3u8
 http://live2.sytv.net.cn/ggpd/playlist.m3u8
 #EXTINF:-1 group-title="湖南",娄底综合频道
 http://119.39.242.52:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 group-title="湖南",娄底综合频道
+http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1 group-title="湖南",益阳新闻综合
 http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvxwhd210130.m3u8
 #EXTINF:-1 group-title="湖南",衡阳新闻综合
@@ -3449,8 +3305,6 @@ http://bl.suining.dingtoo.com/AppName/StreamName.m3u8
 http://play-dgv-xhncloud.voc.com.cn/live/5243_y9Eag0.m3u8
 #EXTINF:-1 group-title="湖南",新邵电视台
 http://play-dgv-xhncloud.voc.com.cn/live/5243_XqvSiE.m3u8
-#EXTINF:-1 group-title="湖南",桃江综合频道
-https://p2.weizan.cn/2717/542692950756092947/live.m3u8
 #EXTINF:-1 group-title="湖南",沅江电视台
 http://play-dgv-xhncloud.voc.com.cn/live/5243_UQfF7l.m3u8
 #EXTINF:-1 group-title="湖南",东安综合
@@ -3459,8 +3313,6 @@ http://play-dgv-xhncloud.voc.com.cn/live/5243_Twis7r.m3u8
 http://liveplay.rednet.cn/live/jianghua_tv_bcdee8.m3u8
 #EXTINF:-1 group-title="湖南",蓝山综合
 http://play-dgv-xhncloud.voc.com.cn/live/5243_tOFNvx.m3u8
-#EXTINF:-1 group-title="湖南",双牌综合
-http://liveplay.rednet.cn/live/shuangpai_26cf9e.m3u8
 #EXTINF:-1 group-title="湖南",新田电视台
 https://hlsv2.quklive.com/live/1625110020460086/index.m3u8
 #EXTINF:-1 group-title="湖南",双峰电视一套
@@ -3517,12 +3369,6 @@ http://117.148.179.160/PLTV/88888888/224/3221231574/index.m3u8
 http://183.207.248.71/gitv/live1/G_YOUMAN/G_YOUMAN
 #EXTINF:-1 group-title="江苏",优漫卡通
 http://111.63.117.13:6060/030000001000/G_YOUMAN/G_YOUMAN.m3u8
-#EXTINF:-1 group-title="广东",优购物Live
-http://zqjp.u02.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="广东",优购物Live
-http://47.75.139.205/shopping/yougouwu.png
-#EXTINF:-1 group-title="江苏",南京新闻综合
-http://183.207.249.137/ott.js.chinamobile.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 group-title="江苏",南京新闻综合
 http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="江苏",南京影视
@@ -3731,6 +3577,8 @@ http://suyu-hls-tv-yf.cm.jstv.com/live/syzhpd/online.m3u8
 http://jiawang-hls-tv-yf.cm.jstv.com/live/jwxw/online.m3u8
 #EXTINF:-1 group-title="江苏",贾汪旅游频道
 http://jiawang-hls-tv-yf.cm.jstv.com/live/jwly/online.m3u8
+#EXTINF:-1 group-title="江苏",贾汪旅游频道
+http://183.207.248.71/gitv/live1/G_XUZHOUJWLY/G_XUZHOUJWLY
 #EXTINF:-1 group-title="江苏",沛县新闻综合
 http://peixian-hls-tv-yf.cm.jstv.com/live/pxzh/online.m3u8
 #EXTINF:-1 group-title="江苏",泗阳综合频道
@@ -3825,6 +3673,8 @@ http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8
 http://jxyx.chinashadt.com:2036/live/1003.stream/playlist.m3u8
 #EXTINF:-1 group-title="江西",永新电视三套
 http://jxyx.chinashadt.com:2036/live/1004.stream/playlist.m3u8
+#EXTINF:-1 group-title="吉林",吉林影视
+http://stream4.jlntv.cn/test4/sd/live.m3u8?_upt=87afe1d41646159889
 #EXTINF:-1 group-title="吉林",中国交通吉林
 http://tv.lanjingfm.com/cctbn/jilin.m3u8
 #EXTINF:-1 group-title="吉林",长春综合
@@ -4045,8 +3895,6 @@ http://39.135.138.60:18890/PLTV/88888888/224/3221226195/index.m3u8
 http://39.134.65.166/PLTV/88888888/224/3221225531/1.m3u8
 #EXTINF:-1 group-title="青海",安多卫视
 http://39.134.65.162/PLTV/88888888/224/3221225531/1.m3u8
-#EXTINF:-1 group-title="青海",安多卫视
-http://183.207.248.71/gitv/live1/G_ANDUO/G_ANDUO
 #EXTINF:-1 group-title="青海",西宁新闻综合
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 group-title="青海",西宁生活服务
@@ -4057,10 +3905,6 @@ https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 http://stream.ysbtv.net/1/sd/live.m3u8
 #EXTINF:-1 group-title="青海",海东综合频道
 https://pili-live-hls-ashh.tianma3600.com/ashh/TV.m3u8
-#EXTINF:-1 group-title="青海",海南州藏语频道
-http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
-#EXTINF:-1 group-title="青海",海西州综合频道
-http://stream.haixitv.cn/1/sd/live.m3u8
 #EXTINF:-1 group-title="青海",黄南州综合
 http://111.12.218.74:8081/live/ch0.m3u8
 #EXTINF:-1 group-title="青海",囊谦综合
@@ -4077,6 +3921,8 @@ http://live.geermurmt.com/xwzh/sd/live.m3u8
 http://live.geermurmt.com/ggpd/sd/live.m3u8
 #EXTINF:-1 group-title="青海",门源综合
 http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+#EXTINF:-1 group-title="青海",祁连综合
+http://livecdn.dmqhyadmin.com/hls/xjqilian.m3u8
 #EXTINF:-1 group-title="青海",贵南综合
 http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
 #EXTINF:-1 group-title="青海",化隆综合
@@ -4097,20 +3943,10 @@ http://stream2.xiancity.cn/xatv2/sd/live.m3u8
 http://stream2.xiancity.cn/xatv3/sd/live.m3u8
 #EXTINF:-1 group-title="陕西",西安文化影视
 http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-#EXTINF:-1 group-title="陕西",西安丝路频道
-http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 #EXTINF:-1 group-title="陕西",西安音乐综艺
 http://stream2.xiancity.cn/xatv6/sd/live.m3u8
 #EXTINF:-1 group-title="陕西",西安移动电视
 http://stream2.xiancity.cn/xatv7/sd/live.m3u8
-#EXTINF:-1 group-title="陕西",榆林电视一套
-http://live.ylwltv.com:8089/live/1080p-yltv1.m3u8
-#EXTINF:-1 group-title="陕西",榆林电视一套
-http://live.ylwltv.com:8089/live/720p-yltv1.m3u8
-#EXTINF:-1 group-title="陕西",榆林电视二套
-http://live.ylwltv.com:8089/live/1080p-yltv2.m3u8
-#EXTINF:-1 group-title="陕西",榆林电视二套
-http://live.ylwltv.com:8089/live/720p-yltv2.m3u8
 #EXTINF:-1 group-title="陕西",安康新闻频道
 https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakzhpd.m3u8
 #EXTINF:-1 group-title="陕西",安康新闻频道
@@ -4121,6 +3957,8 @@ https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakggpd.m3u8
 http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakggpd.m3u8
 #EXTINF:-1 group-title="陕西",安康教育频道
 https://hls-sxak.sobeylive.com/xjhsyapp2019/sxakjypd.m3u8
+#EXTINF:-1 group-title="陕西",安康教育频道
+http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakjypd.m3u8
 #EXTINF:-1 group-title="陕西",宝鸡新闻综合
 http://h5.baojinews.com/m3u8/baojitv1.m3u8
 #EXTINF:-1 group-title="陕西",宝鸡经济资讯
@@ -4150,8 +3988,6 @@ https://livealone302.iqilu.com/iqilu/zypd.m3u8
 #EXTINF:-1 group-title="山东",山东生活
 https://livealone302.iqilu.com/iqilu/shpd.m3u8
 #EXTINF:-1 group-title="山东",山东教育卫视
-http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
-#EXTINF:-1 group-title="山东",山东教育卫视
 http://39.135.138.60:18890/PLTV/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 group-title="山东",山东教育卫视
 http://39.130.202.77:6610/gitv_live/G_SDETV/G_SDETV.m3u8
@@ -4163,6 +3999,8 @@ http://39.134.65.162/PLTV/88888888/224/3221225558/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225558/1.m3u8
 #EXTINF:-1 group-title="山东",中华美食
 http://39.135.138.60:18890/PLTV/88888888/224/3221225924/index.m3u8
+#EXTINF:-1 group-title="山东",中华美食
+http://183.207.248.71/gitv/live1/G_ZHONGHUAMS/G_ZHONGHUAMS
 #EXTINF:-1 group-title="山东",济南鲁中
 https://quehuamtyoutlive.ijntv.cn/j8pukt/452907.m3u8
 #EXTINF:-1 group-title="山东",济南科教
@@ -4281,6 +4119,10 @@ https://jsylivealone302.iqilu.com/live/jiyang_tv02/index.m3u8
 https://jsylivealone302.iqilu.com/live/shanghe_tv01/index.m3u8
 #EXTINF:-1 group-title="山东",商河影视频道
 https://jsylivealone302.iqilu.com/live/shanghe_tv02/index.m3u8
+#EXTINF:-1 group-title="山东",黄岛新闻综合
+https://jsylivealone302.iqilu.com/huangdao/huangdao_tv01/index.m3u8
+#EXTINF:-1 group-title="山东",黄岛生活财经
+https://jsylivealone302.iqilu.com/huangdao/huangdao_tv02/index.m3u8
 #EXTINF:-1 group-title="山东",即墨新闻综合
 https://jsylivealone302.iqilu.com/live/jimo_tv01/index.m3u8
 #EXTINF:-1 group-title="山东",即墨生活服务
@@ -4359,6 +4201,8 @@ https://jsylivealone302.iqilu.com/live/yanzhou_tv02/index.m3u8
 https://jsylivealone302.iqilu.com/live/chengwu_tv01/index.m3u8
 #EXTINF:-1 group-title="山东",成武综艺频道
 https://jsylivealone302.iqilu.com/live/chengwu_tv02/index.m3u8
+#EXTINF:-1 group-title="山东",曹县新闻综合
+https://jsylivealone302.iqilu.com/live/caoxian_tv01/index.m3u8
 #EXTINF:-1 group-title="山东",东明新闻综合
 https://jsylivealone302.iqilu.com/live/dongming_tv01/index.m3u8
 #EXTINF:-1 group-title="山东",定陶新闻频道
@@ -4393,8 +4237,6 @@ https://jsylivealone302.iqilu.com/live/changyi_tv01/index.m3u8
 https://jsylivealone302.iqilu.com/live/changyi_tv02/index.m3u8
 #EXTINF:-1 group-title="山东",高密新闻频道
 https://jsylivealone302.iqilu.com/gaomi/gaomi_tv01.m3u8
-#EXTINF:-1 group-title="山东",高密党建农科
-https://jsylivealone302.iqilu.com/gaomi/gaomi_tv02.m3u8
 #EXTINF:-1 group-title="山东",寒亭综合频道
 https://jsylivealone302.iqilu.com/live/hanting_tv01/index.m3u8
 #EXTINF:-1 group-title="山东",奎文综合频道
@@ -4431,10 +4273,14 @@ https://jsylivealone302.iqilu.com/live/rushan_tv02/index.m3u8
 https://jsylivealone302.iqilu.com/live/wendeng_tv01/index.m3u8
 #EXTINF:-1 group-title="山东",文登电视二套
 https://jsylivealone302.iqilu.com/live/wendeng_tv02/index.m3u8
+#EXTINF:-1 group-title="山东",滨城综合频道
+http://sdbz.chinashadt.com:2036/live/1.stream/playlist.m3u8
 #EXTINF:-1 group-title="山东",惠民综合
 https://jsylivealone302.iqilu.com/live/huimin_tv01/index.m3u8
 #EXTINF:-1 group-title="山东",惠民影视
 https://jsylivealone302.iqilu.com/live/huimin_tv02/index.m3u8
+#EXTINF:-1 group-title="山东",桓台新闻频道
+https://jsylivealone302.iqilu.com/huantai/huantai_tv01/index.m3u8
 #EXTINF:-1 group-title="山东",临淄新闻综合
 https://jsylivealone302.iqilu.com/live/linzi_tv01/index.m3u8
 #EXTINF:-1 group-title="山东",临淄生活服务
@@ -4451,8 +4297,6 @@ https://jsylivealone302.iqilu.com/live/chiping_tv02/index.m3u8
 https://jsylivealone302.iqilu.com/live/linqing_tv01/index.m3u8
 #EXTINF:-1 group-title="山东",临清经济信息
 https://jsylivealone302.iqilu.com/live/linqing_tv02/index.m3u8
-#EXTINF:-1 group-title="山东",岱岳综合频道
-http://slvedio.slradio.cn/a935908a217711ea8bb000163e0e6522/4D6357B92240C088F3612E43E44B5F1D.m3u8
 #EXTINF:-1 group-title="山东",宁阳综合频道
 https://jsylivealone302.iqilu.com/live/ningyang_tv01/index.m3u8
 #EXTINF:-1 group-title="山东",宁阳电视二套
@@ -4477,6 +4321,8 @@ http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",上海新闻HD
 http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/d1.m3u8
+#EXTINF:-1 group-title="上海",东方影视HD
+http://112.25.48.68/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",东方影视HD
 http://111.40.196.9/PLTV/88888888/224/3221225615/index.m3u8
 #EXTINF:-1 group-title="上海",东方影视HD
@@ -4523,8 +4369,6 @@ http://111.40.196.9/PLTV/88888888/224/3221225501/index.m3u8
 http://140.207.241.3:8080/live/program/live/shsshd/4000000/d1.m3u8
 #EXTINF:-1 group-title="上海",劲爆体育HD
 http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/d1.m3u8
-#EXTINF:-1 group-title="上海",劲爆体育HD
-http://112.25.48.68/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海",第一财经HD
 http://111.40.196.9/PLTV/88888888/224/3221225497/index.m3u8
 #EXTINF:-1 group-title="上海",第一财经HD
@@ -4581,8 +4425,6 @@ http://140.207.241.3:8080/live/program/live/qcxj/1300000/d1.m3u8
 http://111.40.196.9/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 group-title="上海",极速汽车
 http://140.207.241.3:8080/live/program/live/jsqc/1300000/d1.m3u8
-#EXTINF:-1 group-title="上海",法治天地
-http://111.40.196.9/PLTV/88888888/224/3221225617/index.m3u8
 #EXTINF:-1 group-title="上海",法治天地
 http://117.148.179.160/PLTV/88888888/224/3221231597/index.m3u8
 #EXTINF:-1 group-title="上海",法治天地
@@ -4733,18 +4575,6 @@ http://live.gprmt.cn/gpnews/hd/live.m3u8
 https://liveout.ycxrmt.cn/i9i45p/en7atk.m3u8
 #EXTINF:-1 group-title="山西",灵丘电视台
 https://stream.icelook.cn/1a7c625fde427dc3/6735154231323395076_1611041008.m3u8?auth_key=1893456000-0-0-fe9d45877d8cdddb4afccd9c1a12f3f8
-#EXTINF:-1 group-title="四川",四川经济频道
-http://scgctvshow.sctv.com/hdlive/sctv2adae2af9c6be404ae16/1.m3u8
-#EXTINF:-1 group-title="四川",四川文化旅游
-http://scgctvshow.sctv.com/hdlive/sctv3adae2af9c6be404ae16/1.m3u8
-#EXTINF:-1 group-title="四川",四川新闻频道
-http://scgctvshow.sctv.com/hdlive/sctv4adae2af9c6be404ae16/1.m3u8
-#EXTINF:-1 group-title="四川",四川影视文艺
-http://scgctvshow.sctv.com/hdlive/sctv5adae2af9c6be404ae16/1.m3u8
-#EXTINF:-1 group-title="四川",四川妇女儿童
-http://scgctvshow.sctv.com/hdlive/sctv7adae2af9c6be404ae16/1.m3u8
-#EXTINF:-1 group-title="四川",四川乡村
-http://scgctvshow.sctv.com/hdlive/sctv94631f5a4018df24440d/1.m3u8
 #EXTINF:-1 group-title="四川",绵阳综合
 http://live.sctvcloud.com/live/mytvzh/playlist.m3u8
 #EXTINF:-1 group-title="四川",绵阳公共
@@ -4865,10 +4695,6 @@ http://live2.scmstv.cn/ggpd/sd/live.m3u8
 http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 #EXTINF:-1 group-title="四川",甘孜综合频道
 http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
-#EXTINF:-1 group-title="四川",巴中综合频道
-http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
-#EXTINF:-1 group-title="四川",巴中公共频道
-http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
 #EXTINF:-1 group-title="四川",阿坝综合频道
 http://ablive.abatv.com.cn:90/live/zhpd.m3u8
 #EXTINF:-1 group-title="四川",阿坝文艺频道
@@ -4887,8 +4713,6 @@ http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b4
 http://pili-live-hls-cqgx.tianma3600.com/cqgx/ggpd.m3u8
 #EXTINF:-1 group-title="四川",筠连综合频道
 http://118.122.78.172:89/live1/live1.m3u8
-#EXTINF:-1 group-title="四川",东兴综合频道
-http://live.sctvcloud.com/live/dongxing/playlist.m3u8
 #EXTINF:-1 group-title="四川",隆昌新闻综合
 http://live.sctvcloud.com/live/longchang/playlist.m3u8
 #EXTINF:-1 group-title="四川",威远新闻综合
@@ -4921,8 +4745,6 @@ http://palive.patv123.com:8091/live/xwpd_800K.m3u8
 http://play.xichongtv.com/ZHPDTV/ZHPDTV.m3u8?auth_key=1625563881-0-0-1090f118d34efb219508d3f6913eebf0
 #EXTINF:-1 group-title="四川",营山电视台
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
-#EXTINF:-1 group-title="四川",黑水新闻综合
-http://live.schstv.com:90/live/xwzh.m3u8
 #EXTINF:-1 group-title="四川",金川新闻综合
 http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 #EXTINF:-1 group-title="四川",金川乡村频道
@@ -4967,6 +4789,8 @@ https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel9/playlis
 http://live.sctvcloud.com/live/wctv1/playlist.m3u8
 #EXTINF:-1 group-title="四川",昭化综合频道
 https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="四川",丹棱新闻综合
+http://live.sctvcloud.com/live/danlingrongmei/playlist.m3u8
 #EXTINF:-1 group-title="四川",洪雅新闻综合
 http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
 #EXTINF:-1 group-title="四川",彭山综合频道
@@ -4987,8 +4811,6 @@ http://live.sctvcloud.com/live/ganluo/playlist.m3u8
 http://112.45.133.129:90/live/xwzh.m3u8
 #EXTINF:-1 group-title="四川",会东综合频道
 http://live.schdxww.com:90/live/xwzh.m3u8
-#EXTINF:-1 group-title="四川",会理新闻频道
-http://live.sctvcloud.com/live/huili/playlist.m3u8
 #EXTINF:-1 group-title="四川",金阳综合频道
 http://live.jyrmtzx.com:8080/live/jyxw.m3u8
 #EXTINF:-1 group-title="四川",雷波综合频道
@@ -5031,8 +4853,8 @@ http://m3u8.yjchannel.yatv.tv/cms/videos/nmip-media-yj/channellive/channel1/play
 http://m3u8.channel.yatv.tv/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 #EXTINF:-1 group-title="四川",荥经综合频道
 http://flv.drs.tv.yatv.tv:8080/channellive/yingjing.flv
-#EXTINF:-1 group-title="四川",巴州综合频道
-https://30814.hlsplay.aodianyun.com/tv_radio_30814/tv_channel_1839.m3u8
+#EXTINF:-1 group-title="四川",通江新闻综合
+http://live.sctvcloud.com/live/bztongjiang/playlist.m3u8
 #EXTINF:-1 group-title="四川",夹江新闻综合
 http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
 #EXTINF:-1 group-title="四川",井研综合频道
@@ -5083,12 +4905,12 @@ http://live.sctvcloud.com/live/anzhoutv1/playlist.m3u8
 http://live.sctvcloud.com/live/bcgqlive/playlist.m3u8
 #EXTINF:-1 group-title="四川",江油新闻综合
 http://live.sctvcloud.com/live/jiangyou/playlist.m3u8
-#EXTINF:-1 group-title="四川",平武综合频道
-http://live.sctvcloud.com/live/pwtv/playlist.m3u8
 #EXTINF:-1 group-title="四川",三台电视一套
 http://125.65.94.91:12351/live
 #EXTINF:-1 group-title="四川",三台电视二套
 http://125.65.94.91:12353/live
+#EXTINF:-1 group-title="四川",盐亭综合频道
+http://live.sctvcloud.com/live/yttv/playlist.m3u8
 #EXTINF:-1 group-title="天津",蓟州新闻综合
 http://pili-live-rtmp.181.i2863.com/i2863-181/dspdzb1.m3u8
 #EXTINF:-1 group-title="天津",宁河新闻频道
@@ -5099,6 +4921,8 @@ https://hb2stream1.baoxinwen.com/d6387fc7a8836e78/6385068498053235715_1597997122
 http://play.jinnantv.top/live/JNTV1.m3u8
 #EXTINF:-1 group-title="天津",西青新闻综合
 http://221.238.209.44:81/hls/live1.m3u8
+#EXTINF:-1 group-title="天津",静海综合频道
+http://live.jinghai.tjrmtzx.com/live/jhtv.m3u8
 #EXTINF:-1 group-title="天津",武清综合频道
 https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
 #EXTINF:-1 group-title="新疆",乌鲁木齐影视频道
@@ -5205,6 +5029,8 @@ http://202.107.188.140:5002/bazhou4_hdcq-1.m3u8?token=guoziyun
 http://202.107.188.139:5002/wensu1_hdbq.m3u8?token=guoziyun
 #EXTINF:-1 group-title="新疆",塔城市综合
 http://p4.weizan.cn/635735175/716981024541808512/live.m3u8
+#EXTINF:-1 group-title="新疆",乌苏综合
+http://117.146.40.138:10001/hls/wstv.m3u8
 #EXTINF:-1 group-title="新疆",裕民汉语
 http://117.190.130.4:8081/out_1/index.m3u8
 #EXTINF:-1 group-title="新疆",裕民哈语
@@ -5507,6 +5333,8 @@ http://39.130.202.77:6610/gitv_live/G_QUJING-2/G_QUJING-2.m3u8
 http://39.130.202.77:6610/gitv_live/G_QUJING-3/G_QUJING-3.m3u8
 #EXTINF:-1 group-title="云南",安宁综合
 http://tv-live.ynkmit.com/tv/anning.m3u8?txSecret=7528f35fb4b62bd24d55b891899db68f&txTime=632C8680
+#EXTINF:-1 group-title="云南",寻甸综合
+http://39.130.202.77:6610/gitv_live/G_XUNDIAN/G_XUNDIAN.m3u8
 #EXTINF:-1 group-title="云南",腾冲综合
 http://39.130.202.77:6610/gitv_live/G_TENGCHONG/G_TENGCHONG.m3u8
 #EXTINF:-1 group-title="云南",腾冲综合
@@ -5529,6 +5357,8 @@ http://live.ynurl.com/video/s10034-ESTV/index.m3u8
 http://39.130.202.77:6610/gitv_live/G_ESHAN/G_ESHAN.m3u8
 #EXTINF:-1 group-title="云南",华宁综合
 http://39.130.202.77:6610/gitv_live/G_HUANING/G_HUANING.m3u8
+#EXTINF:-1 group-title="云南",红塔电视台
+https://hwapi.yunshicloud.com/4zij09/0v0827.m3u8
 #EXTINF:-1 group-title="云南",红塔电视台
 http://39.130.202.77:6610/gitv_live/G_HONGTA/G_HONGTA.m3u8
 #EXTINF:-1 group-title="云南",红塔电视台
@@ -5555,10 +5385,10 @@ http://zb-live.ynurl.com/live/ym927.m3u8
 http://39.130.202.77:6610/gitv_live/G_DAGUAN/G_DAGUAN.m3u8
 #EXTINF:-1 group-title="云南",鲁甸综合
 http://livebroadcast.ccwb.cn/live/w1619693259142907.m3u8
-#EXTINF:-1 group-title="云南",巧家综合
-http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 #EXTINF:-1 group-title="云南",水富综合
 http://39.130.202.77:6610/gitv_live/G_SHUIFU/G_SHUIFU.m3u8
+#EXTINF:-1 group-title="云南",绥江综合
+http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8
 #EXTINF:-1 group-title="云南",威信综合
 http://39.130.202.77:6610/gitv_live/G_WEIXIN/G_WEIXIN.m3u8
 #EXTINF:-1 group-title="云南",彝良综合
@@ -5811,10 +5641,6 @@ http://yd-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel02/720p.m3u8
 #EXTINF:-1 group-title="浙江",浙江钱江都市
 http://hw-m-l.cztv.com/channels/lantian/channel02/360p.m3u8
-#EXTINF:-1 group-title="浙江",聚好货
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="浙江",聚好货
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="浙江",浙江经济生活
 http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江经济生活
@@ -5831,10 +5657,6 @@ http://yd-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 #EXTINF:-1 group-title="浙江",浙江教科影视
 http://hw-m-l.cztv.com/channels/lantian/channel04/360p.m3u8
-#EXTINF:-1 group-title="浙江",优购精品汇
-http://zqjp.u11.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="浙江",优购精品汇
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="浙江",浙江影视娱乐
 http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江民生休闲
@@ -5861,10 +5683,6 @@ http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
 #EXTINF:-1 group-title="浙江",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8
-#EXTINF:-1 group-title="浙江",优购大牌榜
-http://zqjp.u17.live.17ugo.com/ugo.m3u8
-#EXTINF:-1 group-title="浙江",优购大牌榜
-http://47.75.139.205/shopping/yougouwu.png
 #EXTINF:-1 group-title="浙江",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="浙江",浙江国际
@@ -5883,10 +5701,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 http://117.148.179.160/PLTV/88888888/224/3221229419/index.m3u8
 #EXTINF:-1 group-title="浙江",数码时代
 http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8
-#EXTINF:-1 group-title="浙江",聚实惠
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="浙江",聚实惠
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="浙江",杭州综合
 http://112.17.40.247/PLTV/88888888/224/3221229307/index.m3u8
 #EXTINF:-1 group-title="浙江",杭州综合
@@ -5905,10 +5719,6 @@ http://117.148.179.160/PLTV/88888888/224/3221229377/index.m3u8
 http://112.17.40.247/PLTV/88888888/224/3221229316/index.m3u8
 #EXTINF:-1 group-title="浙江",杭州少儿体育
 http://117.148.179.160/PLTV/88888888/224/3221229316/index.m3u8
-#EXTINF:-1 group-title="浙江",聚大牌
-http://ha.wheel.duolebo.com/live.m3u8?p=c1e76ec6-fff3-493b-a7f5-a19fddfcbe3a&c=1281367878&m3u8=true
-#EXTINF:-1 group-title="浙江",聚大牌
-http://kukantv.oss-cn-shenzhen.aliyuncs.com/img/2022_3_1_135503.png
 #EXTINF:-1 group-title="浙江",绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 #EXTINF:-1 group-title="浙江",绍兴新闻综合
@@ -5927,10 +5737,16 @@ http://live.plus.jinhua.com.cn/jjsh/playlist.m3u8
 http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8
 #EXTINF:-1 group-title="浙江",舟山新闻综合
 http://stream.wifizs.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",舟山新闻综合
+http://live.wifizs.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="浙江",舟山公共生活
 http://stream.wifizs.cn/ggsh/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",舟山公共生活
+http://live.wifizs.cn/ggsh/sd/live.m3u8
 #EXTINF:-1 group-title="浙江",舟山群岛旅游
 http://stream.wifizs.cn/qdly/sd/live.m3u8
+#EXTINF:-1 group-title="浙江",舟山群岛旅游
+http://live.wifizs.cn/qdly/sd/live.m3u8
 #EXTINF:-1 group-title="浙江",湖州新闻综合
 http://live.plus.hugd.com/xwzhpd/sd/live.m3u8
 #EXTINF:-1 group-title="浙江",湖州新闻综合
@@ -6197,6 +6013,8 @@ http://kkiptv.hk3.20212021.ml/qqq.php?id=180057122
 http://kkiptv.hk3.20212021.ml/qqq.php?id=380067122
 #EXTINF:-1 group-title="网络",爱奇艺倒霉熊
 http://kkiptv.hk3.20212021.ml/qqq.php?id=180062722
+#EXTINF:-1 group-title="网络",爱奇艺周末影院
+http://kkiptv.hk3.20212021.ml/qqq.php?id=180042122
 #EXTINF:-1 group-title="网络",爱奇艺江苏卫视
 http://kkiptv.hk3.20212021.ml/qqq.php?id=180064822
 #EXTINF:-1 group-title="网络",爱奇艺城乡生活
@@ -6330,13 +6148,13 @@ http://39.134.65.162/PLTV/88888888/224/3221225571/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV怡伴健康
 http://39.134.65.164/PLTV/88888888/224/3221225571/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV军旅剧场
+http://111.40.196.9/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军旅剧场
 http://39.135.138.60:18890/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV军旅剧场
 http://39.134.65.162/PLTV/88888888/224/3221225560/1.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV军旅剧场
 http://39.134.65.164/PLTV/88888888/224/3221225560/1.m3u8
-#EXTINF:-1 group-title="NewTV",NewTV精品大剧
-http://111.40.196.9/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV精品大剧
 http://39.135.138.60:18890/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV精品大剧
