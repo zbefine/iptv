@@ -23,16 +23,108 @@ https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
 
 
 
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/25/1.png "1.png") 
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/25/2.png "2.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/25/3.png "3.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/25/4.png "4.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/25/5.png "5.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/25/6.png "6.png")
+![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/28/1.png "1.png") 
+![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/28/2.png "2.png")
+![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/28/3.png "3.png")
+![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/28/4.png "4.png")
+![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/28/5.png "5.png")
+![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/28/6.png "6.png")
 
 
 
 **历史版本** 
+
+
+> v28.0.0
+
+
+
+UI优化，页面重新排版；
+
+
+
+优化了一些功能体验；
+
+
+
+修复了一些已知问题；
+
+
+
+频道页面：
+
+
+
+
+......新增全新影视类频道（电影、电视剧、综艺、动漫），归属为F1引擎资源；
+
+
+
+......移动原来的影视类频道资源，进入了搜索功能里面，归属为F2引擎资源；
+
+
+
+......新增游戏赛事直播频道（LOL、王者荣耀......）；
+
+
+
+......新增全新体育赛事直播频道（NBA、足球、比赛回放......），删除了原来的体育赛事直播频道；
+
+
+
+搜索页面：
+
+
+
+......新增双引擎搜索(F1、F2引擎)，单击或长按 搜索按钮，显示不同引擎的搜索结果；
+
+
+
+收藏页面：
+
+
+
+......新增影视类收藏（最多收藏60个），新增直播类收藏（最多收藏60个），最近浏览历史记录只保留最近30条；
+
+
+
+直播类页面：
+
+
+
+......移除画面比例调节，改为播放模式切换（解决部分机型黑屏不能播放的问题）；
+
+
+
+影视类播放页面：
+
+
+
+......移除下一集自动播放功能；
+
+
+
+......新增影视类收藏功能；
+
+
+
+......新增视频刷新重载功能；
+
+
+
+......新增换引擎搜索功能（如果当前播放的是F1引擎资源，点击搜索图标后自动启动F2引擎搜索，反之）；
+
+
+
+......新增全自动AI解析播放源（仅限F1引擎资源）；
+
+
+
+......新增滚动公告提醒；
+
+
+
+......新增播放模式切换（解决部分机型黑屏不能播放的问题）；
 
 
 
