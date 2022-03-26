@@ -48,7 +48,7 @@ Gitee https://gitee.com/qingwei248/ds
 
 
 
-新增3个片源引擎， 1个主引擎（HM），3个备用引擎（TC, SZ）；
+新增3个片源引擎， 1个主引擎（HM），2个备用引擎（TC, SZ）；
 
 
 
