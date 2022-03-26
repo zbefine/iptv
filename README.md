@@ -18,8 +18,7 @@ Gitee https://gitee.com/qingwei248/ds
 
 
 
-
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/new/chqc.png "chqc.png")
+![chqc](https://user-images.githubusercontent.com/26646520/160222321-a6c8234f-e43d-471d-b9b0-0ccb24a8fb2e.png)
 
 
 
@@ -27,16 +26,50 @@ Gitee https://gitee.com/qingwei248/ds
 
 
 
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/28/1.png "1.png") 
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/28/2.png "2.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/28/3.png "3.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/28/4.png "4.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/28/5.png "5.png")
-![输入图片说明](https://gitee.com/qingwei248/ds/raw/master/28/6.png "6.png")
+![1](https://user-images.githubusercontent.com/26646520/160222342-0bac7327-3315-4c30-a734-d9594668a545.png)
+![2](https://user-images.githubusercontent.com/26646520/160222344-f26001eb-9e45-4ea6-adeb-c871d81e16b4.png)
+![3](https://user-images.githubusercontent.com/26646520/160222346-0070858c-0752-45a8-a5b4-a9b471349712.png)
+![4](https://user-images.githubusercontent.com/26646520/160222347-19aa65b5-66e7-49a1-bc95-2bc3f3d8b1dd.png)
+![5](https://user-images.githubusercontent.com/26646520/160222348-bf0ffcee-e15e-454e-9af0-025b8c92325d.png)
+![6](https://user-images.githubusercontent.com/26646520/160222349-90025d25-3ce2-428c-9a7b-a01dd6267719.png)
 
 
 
 **历史版本** 
+
+
+
+
+> v29.0.0 如果HM主引擎片源更新中，请暂时使用其它备用引擎。
+
+
+
+移除了上个版本的F2引擎；F1引擎整改为HM引擎；
+
+
+
+新增3个片源引擎， 1个主引擎（HM），3个备用引擎（TC, SZ）；
+
+
+
+搜索页面：新增长按搜索更换引擎，新增搜索结果引擎标识；
+
+
+
+影视类播放页面：新增片源所属引擎标识；
+
+
+
+我的页面：新增引擎更换功能；最近观看记录和影视类的收藏加上了片源所属引擎标识；
+
+
+
+加快了AI解析播放源速度；
+
+
+
+修复提示文字残留的问题;
+
 
 
 > v28.0.0
