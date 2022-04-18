@@ -1,6 +1,3 @@
- **彩蛋模式即将开启，v32.0.0我们再相见！2022年4月17日23点59分告别旧版本！  **
- 
- 
  **IPTV 频道 电视 直播 源 定期检测维护有效性** 
 
 
@@ -20,17 +17,24 @@ Gitee https://gitee.com/qingwei248/ds
  **IPTV 微信小程序版** 
  
  
+ 
+彩蛋模式开启方法，请在小程序里 我的->联系客服 进行咨询。
 
 
 
+![ewm](https://user-images.githubusercontent.com/26646520/163784389-2a42b6c6-2862-4511-856e-caaa4ffac35e.jpg)
 
 
 
-彩蛋模式即将开启，v32.0.0我们再相见！2022年4月17日23点59分告别旧版本！
+**正常模式**
 
 
 
-**界面预览V31.0.0**
+![a](https://user-images.githubusercontent.com/26646520/163784501-caa647c9-3c23-43da-b3e9-ec70a768e7a1.png)
+
+
+
+**彩蛋模式**
 
 
 
@@ -46,8 +50,11 @@ Gitee https://gitee.com/qingwei248/ds
 
 
 
-> v31.0.0 优化。
+> v32.0.0 彩蛋模式。
 
+
+
+> v31.0.0 优化。
 
 
 
