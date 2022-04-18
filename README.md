@@ -21,7 +21,6 @@ Gitee https://gitee.com/qingwei248/ds
  
  
 
-![chqc](https://user-images.githubusercontent.com/26646520/160222321-a6c8234f-e43d-471d-b9b0-0ccb24a8fb2e.png)
 
 
 
