@@ -30,7 +30,7 @@ Gitee https://gitee.com/qingwei248/ds
 
 
 
-![a](https://user-images.githubusercontent.com/26646520/163784501-caa647c9-3c23-43da-b3e9-ec70a768e7a1.png)
+![1](https://user-images.githubusercontent.com/26646520/167044167-5a7e2610-d59c-4970-ad7a-32dc11d040b9.png)
 
 
 
@@ -38,15 +38,18 @@ Gitee https://gitee.com/qingwei248/ds
 
 
 
-![1](https://user-images.githubusercontent.com/26646520/163549861-8ec81b22-9a7c-49d4-a197-8d2d8bd4f809.png)
-![2](https://user-images.githubusercontent.com/26646520/163549870-fd1822a9-f3f8-4273-b467-ddd0d07b83f7.png)
-![3](https://user-images.githubusercontent.com/26646520/163549877-4a0526ee-6c78-40a6-8ce1-b9b326331e71.png)
-![4](https://user-images.githubusercontent.com/26646520/163549888-bad668bf-d943-473b-84f8-8eefbefba112.png)
-![5](https://user-images.githubusercontent.com/26646520/163549903-bd61bc1c-8218-416e-8730-797e170b2bb6.png)
+![2](https://user-images.githubusercontent.com/26646520/167044188-02958059-0952-4d0f-a0a9-9ec59e53fb7b.png)
+![3](https://user-images.githubusercontent.com/26646520/167044195-718cab90-767c-4dff-b7f9-a49b540641ef.png)
+![4](https://user-images.githubusercontent.com/26646520/167044205-d2c3b6dc-67e2-46e2-afc6-3bab2f380069.png)
+![5](https://user-images.githubusercontent.com/26646520/167044216-71a9887f-c3a0-42f8-8907-38bdafea4f5d.png)
+![6](https://user-images.githubusercontent.com/26646520/167044221-a390f86a-1552-4b5b-844f-e23e524863f2.png)
 
 
 
 **历史版本** 
+
+
+> v35.0.0 调整导航栏；直播类页面里移除当前分类列表；影视类页面改版播放源选择界面；性能优化；
 
 
 
