@@ -30,7 +30,7 @@ Gitee https://gitee.com/qingwei248/ds
 
 
 
-![1](https://user-images.githubusercontent.com/26646520/167044167-5a7e2610-d59c-4970-ad7a-32dc11d040b9.png)
+![1](https://user-images.githubusercontent.com/26646520/169257464-80ed9a20-aea4-4c6d-a7cd-9ca09f727338.png)
 
 
 
@@ -38,15 +38,33 @@ Gitee https://gitee.com/qingwei248/ds
 
 
 
-![2](https://user-images.githubusercontent.com/26646520/167044188-02958059-0952-4d0f-a0a9-9ec59e53fb7b.png)
-![3](https://user-images.githubusercontent.com/26646520/167044195-718cab90-767c-4dff-b7f9-a49b540641ef.png)
-![4](https://user-images.githubusercontent.com/26646520/167044205-d2c3b6dc-67e2-46e2-afc6-3bab2f380069.png)
-![5](https://user-images.githubusercontent.com/26646520/167044216-71a9887f-c3a0-42f8-8907-38bdafea4f5d.png)
-![6](https://user-images.githubusercontent.com/26646520/167044221-a390f86a-1552-4b5b-844f-e23e524863f2.png)
+![2](https://user-images.githubusercontent.com/26646520/169257529-7cecdcd9-7d06-42db-baa0-6036241664aa.png)
+
+![3](https://user-images.githubusercontent.com/26646520/169257538-3732cf37-cabc-46f8-be9a-2fc62abdc043.png)
+
+![4](https://user-images.githubusercontent.com/26646520/169257543-1826f3fc-9467-435b-9ca8-af96d11349e6.png)
+
+![5](https://user-images.githubusercontent.com/26646520/169257558-445270bc-cc1f-4d3d-b312-f1f6b8263a5e.png)
+
+![6](https://user-images.githubusercontent.com/26646520/169257566-1284c99b-e142-4877-adc5-a03cb70fc976.png)
 
 
 
 **历史版本** 
+
+
+> v36.0.0 
+修复 导航栏些许溢出的问题，改版了导航栏；
+修复 删除某个收藏后可能导致界面异常的问题；
+修复 IOS端没弹幕的情况，同时升级弹幕功能；
+优化上拉加载更多性能；
+新增 电视直播双版本切换功能，长按【直播】可以切换电视直播版本；
+新增 全新版本影视类；
+新增 清除全局缓存功能；
+改版 热搜；
+改版 弹出提示的位置；
+移除 引擎切换、引擎标识、双引擎搜索功能；（因新增全新版影视类）
+
 
 
 > v35.0.0 调整导航栏；直播类页面里移除当前分类列表；影视类页面改版播放源选择界面；性能优化；
