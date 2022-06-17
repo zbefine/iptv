@@ -18,7 +18,7 @@ Gitee https://gitee.com/qingwei248/ds
  
  
  
- **如果有朋友也需要小程序彩蛋模式版，请在小程序里 我的->联系客服 进行咨询。**
+ **彩蛋模式 开启方法，请在小程序里 我的->联系客服 进行咨询**
 
 
 ![ewm](https://user-images.githubusercontent.com/26646520/163784389-2a42b6c6-2862-4511-856e-caaa4ffac35e.jpg)
@@ -29,7 +29,8 @@ Gitee https://gitee.com/qingwei248/ds
 
 
 
-![1](https://user-images.githubusercontent.com/26646520/169442769-a031dc2b-3064-4846-a093-6770173899b5.png)
+![1](https://user-images.githubusercontent.com/26646520/174236515-0e61c51d-eea0-40dc-9b4c-00b26f519047.png)
+
 
 
 
@@ -37,19 +38,26 @@ Gitee https://gitee.com/qingwei248/ds
 
 
 
-![2](https://user-images.githubusercontent.com/26646520/169442786-d41a0722-2566-474b-8cab-682ba858d1f0.png)
+![2](https://user-images.githubusercontent.com/26646520/174236531-e5c83792-cb8d-4c1b-a5dd-162518903478.png)
 
-![3](https://user-images.githubusercontent.com/26646520/172274726-440096bd-0067-486d-b0ba-d24aa940b996.png)
+![3](https://user-images.githubusercontent.com/26646520/174236548-d27051a8-f8ae-44be-80db-4e05725de9bb.png)
 
-![4](https://user-images.githubusercontent.com/26646520/172274735-4c7e3cf4-1ba5-4470-a68d-855c35ded6d6.png)
+![4](https://user-images.githubusercontent.com/26646520/174236551-21919a25-4b0a-447f-a307-3782c1ddee62.png)
 
-![5](https://user-images.githubusercontent.com/26646520/172274743-61266658-eca2-4517-9ac7-0b7fc1183197.png)
+![5](https://user-images.githubusercontent.com/26646520/174236560-2f10853a-0cf1-428d-a4e1-933033775811.png)
 
-![6](https://user-images.githubusercontent.com/26646520/169442810-11bd7416-0113-4f3d-825e-b61f8ad038e7.png)
+![6](https://user-images.githubusercontent.com/26646520/174236574-6f70c595-a501-4da3-b39e-3d79999cd3c0.png)
+
+![7](https://user-images.githubusercontent.com/26646520/174236586-22c4e07c-fbf8-4b9a-9223-17a44ce4384b.png)
 
 
 
 **历史版本** 
+
+
+> v39.0.0
+一些界面优化；
+
 
 
 > v38.0.0
