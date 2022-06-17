@@ -16,9 +16,7 @@ Gitee https://gitee.com/qingwei248/ds
 
  **IPTV 微信小程序版（自用）** 
  
- 
- 
- **彩蛋模式 开启方法，请在小程序里 我的->联系客服 进行咨询**
+
 
 
 ![ewm](https://user-images.githubusercontent.com/26646520/163784389-2a42b6c6-2862-4511-856e-caaa4ffac35e.jpg)
@@ -34,7 +32,7 @@ Gitee https://gitee.com/qingwei248/ds
 
 
 
-**彩蛋模式**
+ **彩蛋模式 开启方法，请在小程序里 我的->联系客服 进行咨询**
 
 
 
