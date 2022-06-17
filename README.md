@@ -14,7 +14,7 @@ Gitee https://gitee.com/qingwei248/ds
 
 
 
- **IPTV 微信小程序版（自用）** 
+ **IPTV 微信小程序版** 
  
 
 
@@ -36,7 +36,7 @@ Gitee https://gitee.com/qingwei248/ds
  
  
  
- **开启方法，请在小程序里 我的->联系客服 进行咨询**
+**开启彩蛋模式的方法，请在小程序里 我的->联系客服 进行咨询*
 
 
 
