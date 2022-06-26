@@ -6,6 +6,10 @@ https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
 
 
 
+https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt
+
+
+
 Gitee https://gitee.com/qingwei248/ds
 
 
