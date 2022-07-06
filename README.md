@@ -44,10 +44,6 @@ Gitee https://gitee.com/qingwei248/ds
 
 
 
-电影&电视剧&综艺&动漫大分类，暂时下架~ 过两天恢复！
-
-
-
 ![2](https://user-images.githubusercontent.com/26646520/174236531-e5c83792-cb8d-4c1b-a5dd-162518903478.png)
 
 ![3](https://user-images.githubusercontent.com/26646520/174236548-d27051a8-f8ae-44be-80db-4e05725de9bb.png)
