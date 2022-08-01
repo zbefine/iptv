@@ -5,10 +5,13 @@
 https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
 
 
+https://cdn.jsdelivr.net/gh/zbefine/iptv/iptv.m3u
+
 
 https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt
 
 
+https://cdn.jsdelivr.net/gh/zbefine/iptv/iptv.txt
 
 
 
