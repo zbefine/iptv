@@ -17,6 +17,10 @@ https://cdn.jsdelivr.net/gh/zbefine/iptv/iptv.txt
 
 ![check (1)](https://user-images.githubusercontent.com/26646520/155706149-8cc26744-d0ce-4cb5-99b9-83cf278f740e.png)
 
+你们选的嘛，偶像！ 永久停更，转自用了，再见
+
+
+![微信截图_20221019224159](https://user-images.githubusercontent.com/26646520/196723757-1e47d374-4e24-42ee-b352-1997be6b6386.png)
 
 
  **IPTV 微信小程序版** 
