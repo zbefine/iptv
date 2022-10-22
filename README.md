@@ -19,8 +19,11 @@ https://cdn.jsdelivr.net/gh/zbefine/iptv/iptv.txt
 
 
 
+ **IPTV APP 版本 即将推出** 
 
- **IPTV 微信小程序版** 
+
+
+ **IPTV 微信小程序版（官方和谐了，已成历史）** 
  
 
 
